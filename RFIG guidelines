@@ -1,0 +1,209 @@
+##What is RFIG?
+Relational–Functional Iconographic Grammar (acronym RFIG) is a non-nomological (means not fixed like the law) grammatical structure to derive power or function relations between deities and social and cultural structures of religious communities and spaces.
+
+#RFIG Grammar Structure
+Describe overall altar configuration first.
+ENSEMBLE → [ICON₁ RELATION ICON₂] | [ICON₁ {centers} ICON₂ ICON₃] | ENSEMBLE RELATION ICON | ICON RELATION ENSEMBLE | [ENSEMBLE₁ RELATION ENSEMBLE₂]
+RELATION → RELATION_SYM | RELATION_ASYM
+RELATION_SYM → coordinates[axis, intentionality, temporality] | mirrors
+RELATION_ASYM → surmounts | underlies | flanks | brackets | frames | faces | guards | serves | escorts | centers | admits | subordinates | transmits | intercedes | manifests | substitutes
+RELATION [scope] scope ∈ {altar | shrine | compound | complex}
+coordinates [axis, intentionality, temporality]
+axis ∈ { lateral | vertical | depth | diagonal | dispersed }
+intentionality ∈ { grouped | incidental }
+temporality ∈ { permanent | seasonal | ritual-specific }
+
+Describe each structure respectively.
+ICON → POSITION × SCALE × ORIENTATION × FUNCTION
+POSITION → {central | axial | peripheral | elevated | recessed | threshold | paired-lateral}
+SCALE → {dominant | equal | subordinate | singular}
+ORIENTATION → {front-facing | inward-facing | outward-facing | lateral | upward-facing}
+FUNCTION → {soteriological | pedagogical | protective | apotropaic | devotional | cosmological | intercessory | administrative | commemorative}
+
+#Interpretation rules
+
+Visual prominence does not determine status.
+The apparent importance of a deity icon — how large it is, or how central its position on the altar — cannot be taken as a reliable index of its rank or sacred power within the ensemble. A small figure placed to the side may hold higher theological status than a large figure at the centre; an elevated position may reflect architectural necessity rather than cosmological hierarchy. Scale and position are features of the iconographic programme, but they do not, by themselves, tell the analyst what a deity means or where it stands in the sacred order.
+
+Status is determined by function within its ritual context.
+What a deity does — the role it performs for a community in the context of specific ritual practices — is the primary determinant of its status in any given ensemble. The same icon may function as the supreme object of veneration in one temple community and as a subordinate protective figure in another. Analysis must therefore always situate an icon within the ritual context that gives its function meaning, rather than reading status off visual features alone.
+  
+Asymmetric relations should have direction.
+Where a relation is asymmetric — that is, where it does not hold equally in both directions — it must be explicitly stated which icon is the source and which is the target. To say that A serves B is a different analytical claim from saying that B serves A, and the grammar requires that this distinction always be marked. Symmetric relations such as mirrors and coordinates hold in both directions and require no directional marking.
+
+Multiple relations within an ensemble are non-exclusive.
+A single pair of icons may be described by several simultaneous relations, each encoding a distinct analytical dimension. An icon may at the same time surmount a subordinate figure, be served by attendant figures, and be framed by an enclosing niche — and all three statements are concurrently true. Assigning one relation to an ensemble does not preclude, cancel, or take priority over any other.
+
+Relations do not transfer across scales.
+A relation that holds at one level of spatial organization — say, between two icons on the same altar panel — does not automatically hold at a larger scale, such as between shrines within a compound or between temple complexes within a neighbourhood. The hierarchical relation between a main deity and its altar attendants is an altar-level claim; whether that same deity holds a superordinate relation to the deities housed in subsidiary shrines elsewhere in the compound is a separate analytical question that requires separate evidence.
+
+#Definitions
+
+Grammar Structure Terms
+ENSEMBLE: read deity structures as a group on the altar, not just as individual structures. ICON is the noun and RELATION is the verb.
+RELATION: the relationship between deity figures
+ICON: the figure (Buddha/ Bodhisattva/ Deity statue)
+POSITION: the place where the figure is placed
+SCALE: size of the figure
+ORIENTATION: which direction is the figure facing towards
+FUNCTION: what role does the figure play in the religion/ in helping devotees
+
+#Relation Terms
+
+I. Spatial and orientational relations
+
+Where is A relative to B, and which way are they facing?
+
+These are the most immediately observable relations and form the baseline of any iconographic description.
+
+coordinates — A and B share an altar or compound without a more specific relation being iconographically specified. Symmetric and weak; the minimal claim.
+
+flanks — A is positioned to the left or right of B. In Chinese temple iconography, lateral position typically implies relative subordination or protective adjacency; the flanking figure attends the central one.
+
+surmounts — A is positioned above B on a tiered altar or platform. Vertical position in this tradition is a primary carrier of hierarchical rank — the higher the placement, the greater the status — so this relation is analytically essential for tiered altar structures.
+
+underlies — the inverse of surmounts; A is below B.
+
+faces — A’s orientation is directed toward B. This can encode reverential attention (an attendant facing a principal deity) or confrontation (opposing protective figures facing each other across a threshold).
+
+mirrors — A and B are compositionally symmetric, positioned as bilateral counterparts. This implies approximate equivalence of rank and a joint functional identity as a pair (as distinct from two independent figures who happen to flank the same deity).
+
+brackets — A and A’ together frame a threshold, gateway, or entrance to the space where B is housed. This is distinct from flanks because the pair functions as a unit in relation to a passage or boundary, not simply in relation to a central figure. Door guardian pairs are the paradigm case.
+
+frames — A encloses or surrounds B: a canopy, niche arch, or mandorla. Enclosure differs from lateral or vertical positioning because it defines the boundary of B’s sacred space rather than specifying a rank or role.
+
+II. Functional and role relations
+
+What does A do in relation to B?
+
+Spatial position and functional role often co-occur but are analytically distinct. Two figures may occupy the same lateral positions at different temples while serving different functions, or the same function may be spatially realized differently across sites.
+
+guards — A exercises a protective function directed outward, defending the space or figure of B against external threat. Distinguished from flanks (position) and brackets (threshold-framing) by its explicit directional, protective function.
+
+serves — A functions as an attendant or assistant to B. Attendant deities, divine messengers, and child attendants (tongzi) who carry the attributes of the principal deity are paradigm cases. The relation encodes role rather than just position.
+
+escorts — A accompanies B in a processional or movement-implied arrangement. Relevant for icons that appear together only in ritual contexts (festival processions, itinerant shrines) or whose iconographic composition implies movement rather than static enthronement.
+
+centers — A is the compositional and hierarchical focal point of the ensemble; B, C… are organized in relation to A. Useful for explicitly naming the anchor in multi-icon groupings rather than leaving it implicit.
+
+admits / bars — A controls access to B or to the sacred space B inhabits. Functionally distinct from guards (which repels external threat) in that admits encodes the gateway relation itself — the figure as threshold agent rather than defensive agent.
+
+III. Hierarchical and bureaucratic relations
+
+How does A’s rank relate to B’s rank, and does A transmit authority from B?
+
+Chinese religious cosmology, particularly in its Taoist and popular forms, is explicitly bureaucratic: the divine realm is modeled on the imperial administrative hierarchy, with deities holding offices, receiving mandates, and delegating functions downward. RFIG needs relations that capture this structure independently of spatial realization, because the same hierarchical relation may be spatially expressed differently across temples.
+
+subordinates — A holds a lower rank than B within the divine hierarchy. Position-independent: the relation holds whether or not it is currently expressed through vertical placement or lateral flanking.
+
+transmits — A channels authority, mandate, or sacred power from B downward to C, or to the worshipping community. This encodes the chain-of-delegation structure of divine bureaucracy: the Jade Emperor delegates to the City God, who delegates to the Earth God, who mediates for the local community. No purely spatial relation captures this.
+
+intercedes — A functions as a mediator between B (a higher or more remote deity) and the worshipping community. Distinguished from transmits in directionality: intercedes describes upward petition on behalf of humans, while transmits describes downward delegation of power.
+
+IV. Ontological and identity relations
+
+Is A a different form of B, or a regional or contextual substitute for B?
+
+This dimension has no parallel in purely spatial iconographic description but is essential for any grammar that aims to handle the complexity of Chinese syncretic religion, where the same deity may appear in multiple iconographic forms, or where figures from different traditions are identified with each other.
+
+manifests — A is an emanation, aspect, or iconographic form of B. A deity may appear across a temple in multiple guises — as a main altar icon, a subsidiary shrine figure, and a small portable image — that are ontologically the same but iconographically distinct. Different compassionate emanations of the same bodhisattva are a Buddhist example; the multiple faces of a protective deity are a Taoist one.
+
+substitutes — A stands in for B in a specific regional, communal, or ritual context. Where communities identify figures from different traditions as equivalent — a common feature of syncretic folk religion — substitutes names this relation explicitly rather than collapsing the distinction.
+
+#Scope Terms
+
+Within what boundary does this relation hold?
+
+Altar The most granular level. An altar-scope relation holds between icons that share a single altar platform, table, or niche — objects that a worshipper would see as a single visual unit from a fixed standing position.
+
+Shrine The level of a single room or hall within a temple building — everything enclosed within four walls and a roof. A shrine-scope relation holds between icons that do not share the same altar surface but are housed in the same dedicated space.
+
+Compound The level of the full temple site — all the buildings, courtyards, subsidiary shrines, and open spaces enclosed within a single boundary wall or understood by the community as belonging to a single temple. A compound-scope relation holds between deities housed in different buildings or structures within that site.
+
+Complex The broadest level, covering clusters of temples or sacred sites that are institutionally, historically, or ritually connected but occupy distinct physical locations. A complex-scope relation holds between the principal deity of one temple and a deity at a related temple that serves a different function for the same community — a branch temple and its parent temple, for instance, or a cluster of temples along a single street that together serve a neighbourhood’s full range of ritual needs. Relations at this scope are rarely visible in the iconographic arrangement itself; they are typically established through textual sources, community testimony, or ritual practice, and require ethnographic evidence alongside iconographic analysis.
+
+# Important to note: The same deity pair can stand in different relations at different scopes, and conflating the levels produces analytical errors. A deity that subordinates another at altar scope — because it occupies a lower platform on the same altar — may in fact transmit authority to that same deity at compound scope, if the lower-ranked altar figure is the administrative intermediary through which the higher deity’s power reaches the local community. Scope-marking forces the analyst to be explicit about which level of spatial organization the claim actually concerns.
+
+Coordinates terms
+
+Axis — How are they spatially arranged relative to each other?
+This parameter describes the geometric relationship between the two icons along whichever spatial dimension organizes their co-presence.
+
+lateral — the icons are arranged side by side along a horizontal plane, at roughly the same height. The most common altar arrangement; two icons on the same table level without a clear subordination of one above the other.
+
+vertical — the icons are arranged along a vertical axis, one above the other, but without a sufficiently clear rank differential to justify the stronger claim of surmounts. Use this when height difference is present but ambiguous in its hierarchical meaning — for instance, when architectural constraints rather than deliberate iconographic choices seem to determine the placement.
+
+depth — the icons are arranged front-to-back along the axis running from the entrance toward the rear of the shrine. A forecourt deity and an inner hall deity may coordinate along the depth axis without being on the same altar or in the same hierarchical relation that surmounts would imply.
+
+diagonal — the icons are offset both laterally and vertically, occupying different horizontal and vertical positions simultaneously. This occurs in complex multi-tiered altars where an icon’s placement cannot be cleanly described as purely lateral or purely vertical relative to another.
+
+dispersed — the icons are present within the same bounded space but without a single shared axis organizing their relationship. They co-exist in the same altar, shrine, or compound without a clear geometric line connecting them. The co-presence is real but spatially unstructured.
+
+Intentionality — Were they deliberately placed together?
+This parameter captures the analyst’s assessment of whether the co-presence of the two icons reflects a conscious iconographic decision or is the result of circumstance.
+
+grouped — the two icons are understood, by the community or by iconographic convention, to belong together as a deliberate pairing or set. Their co-presence is intentional and meaningful — removing one would alter the iconographic programme. The Three Pure Ones on a Taoist altar, or Guan Yin with her canonical attendants, are grouped in this sense even when no more specific relation like serves or flanks can yet be confirmed.
+
+incidental — the two icons share a space for reasons that are spatial, historical, or practical rather than iconographically constitutive. A deity added to an altar because there was room, a figure donated by a community member placed alongside an unrelated principal deity, or two icons from distinct ritual programmes that happen to occupy the same shrine room — these are incidental co-presences. Their arrangement tells the analyst something about the temple’s history or community practices, but not about a deliberate iconographic relationship between the deities themselves.
+
+Temporality — How long are they together?
+This parameter records whether the co-presence is a stable feature of the iconographic programme or a condition that varies across time.
+
+permanent — the icons are co-located as a fixed, year-round arrangement. This is the default assumption for most altar icons, but it should be stated explicitly because the grammar also needs to handle the other cases.
+
+seasonal — the icons are brought together only during specific periods of the religious calendar — the Hungry Ghost Festival, the deity’s birthday celebration, a particular lunar month. Outside that period, one or both icons may be stored, relocated, or absent. The co-presence is real and meaningful during that season, but coordinates[axis, grouped, seasonal] is a different analytical claim from coordinates[axis, grouped, permanent].
+
+ritual-specific — the icons appear together only within a particular ritual event or ceremony, not as part of any ongoing spatial arrangement. Processional icons that are assembled and paraded together on specific occasions, or icons temporarily installed on a street altar for a communal rite, are ritual-specific in their co-presence. The relation is real within that ritual context but cannot be read from the permanent spatial arrangement of the temple.
+
+#Spatial Position Terms
+
+Central: placed in the middle of the shrine hall (the most important spot). Everything else is arranged around it. 
+Axial: along an imaginary straight line (an axis). 
+Peripheral: on the edges or sides.
+Elevated: placed on a higher platform than others.
+Recessed: set back or pushed inward, normally tucked into a space built into a wall or deeper space. 
+Threshold: is one located at or immediately adjacent to a point of transition between spaces — a doorway, a gate, an archway, or any architectural feature that marks the boundary between an outer and an inner zone. 
+Paired-lateral: lateral position that is only meaningful as one half of a bilaterally symmetric pair. The icon occupies that side as the counterpart of a corresponding figure on the opposite side, and the two positions together constitute a single functional unit.
+
+#Scale Terms
+
+Dominant: The biggest figure.
+Equal: Same size as the other figures.
+Subordinate: Smaller than the main figure or other figures.
+Singular: Stands alone in its space.
+
+(Take note that size does not necessary guarantee power or influence. In some cases, the main deity occupying the central position might be subordinate in size to the acolytes or protector deity statues. This is because the owners/managers of the temples can place different-sized deities in whatever configurations they want.)
+
+#Orientation Terms
+Front-facing: Facing directly towards you. Example: The giant Buddha statue facing directly towards the entrance (where people would stand at to pray) of Hall of No Form at Kong Meng San Phor Kark See Monastery.
+Inward-facing: Facing towards the central figure or towards the center. 
+Outward-facing: Facing away from the center or looking outward. 
+Lateral-facing: Facing sideways, not directly engaging you or the center (central deity). 
+Upward-facing: Icon’s gaze or bodily orientation is directed above the eyeline of any devotee who would normally stand before it.
+
+Note: inward-facing versus lateral-facing
+In the case of inward-facing, the figure is angled towards the main figure. Their “gaze” or “attention” is focused on the central deity (center).
+In the case of lateral-facing, the figure is turned to the side, neither towards the viewer nor towards the central deity. Their “attention” is directed across the shrine space.
+
+Important note about spatial position terms: Many Chinese folk temples may keep many deity figures in their shrines in all sorts of positions that may or may not reflect the original altar configuration. This due to various factors like taking in discarded deity figures, etc. Therefore, use RFIG as a supplementary tool and make sure to understand more about the background of the shrines and temples from the management themselves.
+
+#Function Terms
+
+What the deity offers the community
+Soteriological: Helps to save people from going to bad places after death, e.g. Hell. 
+Protective: shelter, guard, and care for devotees, a community, or a sacred space
+Devotional: Being prayed to by believers for help. 
+Apotropaic: ward off, repel, or neutralize malevolent forces, inauspicious influences, or harmful spiritual presences. 
+Intercessory: mediator between the worshipping community and a higher or more remote deity, receiving petitions from below and transmitting them upward, then channeling divine response downward.
+
+What the deity does within a sacred order
+Pedagogical: Teaches people religious doctrines and practices. 
+Administrative: holds a specific office within the divine bureaucratic hierarchy and functions to govern a defined jurisdiction — maintaining order, processing the spiritual affairs of a community, recording merit and transgression, and reporting upward to superior deities.
+
+What the deity represents historically or cosmologically
+Cosmological: Representing the structure of the universe. 
+Commemorative: to honor, memorialize, or maintain the presence of a founder, ancestor, historical figure, or community patron.
+
+Important to note: It is recommended to refer to religious texts or relevant academic literature or communicate with believers before determining the functions of the figures. Just like how humans wear many hats and play different roles in different situations in daily lives, religious figures can also have more than one function from different perspectives, just that one of the functions may be more prominent than the others. For example: Amitabha Buddha’s function can be both soteriological and devotional, with the soteriological function as his core duty, while the devotional aspect surfaces as the devotees’ response to knowing of his ability to save them, therefore they chant his name in times of trouble. (Which means the soteriological function results in a secondary devotional function.)
+
+Therefore, RFIG is a loose guideline to identify the roles and functions of the deities. The grammar structure is there as a basic reference, and you can feel free to adjust the components according to what you observe.
