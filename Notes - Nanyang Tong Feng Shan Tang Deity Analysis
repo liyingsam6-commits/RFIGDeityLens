@@ -1,0 +1,233 @@
+Da Feng Gu Si (大峰古寺) / Nanyang Tong Feng Shan Tang (南洋同奉善堂)
+A small single-shrine community temple — quite different in scale from the monasteries previously analyzed, but iconographically rich and structurally illuminating in its own right. The institutional identity, the triadic altar configuration, and the vertical iconographic hierarchy together make this a productive test case for RFIG at the small-temple scale.
+
+Institutional context
+The two principal external plaques identify the institution at two layered registers:
+南洋同奉善堂  (Nanyang Tong Feng Shan Tang)
+  -- Nanyang United Charity Hall
+  -- the institution's organizational identity
+  -- 善堂 (shàn táng) = "Charity Hall," a specific category
+     of religious-charitable society particularly associated
+     with the Teochew (Chaozhou) diaspora community across
+     Southeast Asia
+  -- Charity Hall societies traditionally provide:
+       * burial rites for the destitute
+       * medical relief
+       * disaster aid
+       * food distribution to the poor
+       * moral cultivation and worship
+
+大峰古寺  (Dafeng Gu Si)
+  -- Ancient Temple of Master Dafeng
+  -- the temple's iconographic-devotional identity
+  -- named after Master Dafeng (大峰祖師), the 12th-century
+     Song-dynasty Teochew monk whose charitable foundations
+     became the model for the Shan Tang tradition across
+     the Chinese diaspora
+The dual naming encodes a dual identity: the institution is simultaneously a charitable society (Shan Tang) and a temple (Si) — operating as religious-charitable hybrid characteristic of Teochew diaspora institutional life. This is a different categorical register from the Buddhist monasteries analyzed earlier. The Shan Tang tradition operates at the intersection of Buddhist devotion (Master Dafeng's monastic origins), Daoist iconography (auxiliary deities), Confucian moral cultivation (charitable practice as virtue), and folk-religious community formation (diaspora identity maintenance).
+
+The principal altar — triadic configuration
+ICON₁ — Master Dafeng (大峰祖師)
+   POSITION    : central, axial, elevated
+   SCALE       : dominant (largest figure)
+   ORIENTATION : front-facing
+   FUNCTION    : devotional, soteriological, exemplary
+                 (the founding patriarch of the charitable
+                  tradition)
+   ICONOGRAPHIC REGISTER : Buddhist-syncretic
+                           (seated on lotus throne,
+                            scholar/monastic robes,
+                            fly-whisk in hand)
+
+ICON₂ — Huatuo (華陀仙師)
+   POSITION    : flanking-right (from altar's perspective),
+                 lateral
+   SCALE       : equal (paired with martial deity)
+   ORIENTATION : front-facing
+   FUNCTION    : protective, intercessory
+                 (patron of medicine and bodily healing)
+   ICONOGRAPHIC REGISTER : Daoist / folk-religious
+                           (bearded scholar, dark robes,
+                            scholar's hat)
+
+ICON₃ — Hu Tian Yuanshuai (護天元帥)
+   POSITION    : flanking-left (from altar's perspective),
+                 lateral
+   SCALE       : equal (paired with Huatuo)
+   ORIENTATION : front-facing
+   FUNCTION    : protective, apotropaic
+                 (Heaven-Protecting Marshal — martial guardian)
+   ICONOGRAPHIC REGISTER : Daoist / folk-religious
+                           (armored warrior with weapons,
+                            ornate plumed helmet)
+The triadic altar configuration is canonically centers: Master Dafeng centred, Huatuo and Hu Tian Yuanshuai flanking laterally. Each deity is identified by its own dark-blue title plaque mounted above the altar, providing iconographic text that makes the identifications explicit:
+華陀仙師 | 宋大峰祖師 | 護天元帥
+
+Functional triad — the welfare programme of a Shan Tang
+The three deities together encode the comprehensive welfare programme of a Teochew Shan Tang charitable society. Each deity's function corresponds to a domain of charitable provision the institution traditionally addresses:
+HUATUO  →  bodily welfare
+  Medicine, healing, care of the sick
+  The Shan Tang's medical relief programme
+
+MASTER DAFENG  →  social welfare
+  Charity, burial of the destitute, founding example
+  The Shan Tang's founding charitable mission
+
+HU TIAN YUANSHUAI  →  protective security
+  Martial protection, apotropaic warding
+  The Shan Tang's protection of the community
+This is RFIG's first encounter with a functional welfare triad — a deity configuration where each member corresponds to a distinct functional domain of the institution's charitable work. The triad is iconographically systematic: the institution does not simply venerate Master Dafeng and add other deities at random, but selects deities whose canonical functions correspond to the major activities the institution conducts. Veneration of the altar and the welfare programme of the institution mirror each other.
+[HUATUO  manifests  MEDICAL_CHARITY]
+  [scope: shrine]
+[MASTER_DAFENG  manifests  GENERAL_CHARITY]
+  [scope: shrine]
+[HU_TIAN_YUANSHUAI  manifests  PROTECTIVE_SECURITY]
+  [scope: shrine]
+[TRIAD  manifests  COMPREHENSIVE_CHARITABLE_PROGRAMME]
+  [scope: shrine]
+
+Vertical iconographic hierarchy — Buddhist frame
+The altar is layered vertically in a way that places the syncretic triad within an explicitly Buddhist theological frame. Reading from top to bottom:
+TOP  → 佛光普照 plaque
+       "Buddha-Light Universally Illuminating"
+       Inscriptional Buddhist frame
+       
+       Hanging lantern-tassels with mantras:
+         南無阿彌陀佛
+         南無妙色身如來
+         南無寶勝 (...) 如來
+       Buddhist refuge formulas
+
+ABOVE-CENTRE  → small Theravada-style standing Buddha
+                on lotus base, mounted on wall
+                niche behind central deity
+
+CENTRE  → Master Dafeng on lotus throne
+          (Buddhist monk on Buddhist iconographic platform)
+
+FLANKS  → Huatuo (left) and Hu Tian Yuanshuai (right)
+          Daoist/folk deities
+
+BELOW  → altar embroidery: 南洋同奉善堂
+         institutional self-identification
+The vertical hierarchy encodes a deliberate theological claim: the syncretic triad operates within a Buddhist frame. The Buddha-light of the inscription illuminates everything below; the Theravada Buddha behind the central figure provides ultimate iconographic reference; the lantern-tassels with Buddhist mantras provide constant inscriptional Buddhist presence. The triad's Daoist-folk components (Huatuo, Hu Tian Yuanshuai) are not denied or hidden; they are integrated within a Buddhist framework that asserts their compatibility with Buddhist devotion.
+This is a sophisticated theological architecture in miniature. The temple does not present itself as Daoist-with-Buddhist-elements or as syncretism-without-hierarchy; it presents itself as Buddhist-framed-with-syncretic-content. The iconographic hierarchy is unambiguous about which register frames which.
+[BUDDHA_LIGHT_PLAQUE  surmounts  TRIAD]
+  [scope: shrine]
+[THERAVADA_BUDDHA  surmounts  MASTER_DAFENG]
+  [scope: altar]
+[BUDDHIST_INSCRIPTIONS  frames  TRIAD]
+  [scope: shrine]
+[BUDDHIST_REGISTER  surmounts  DAOIST_FOLK_REGISTER]
+  [scope: shrine]
+The surmounts relation operating across iconographic registers is significant. RFIG can now document configurations where one tradition's iconography is positioned hierarchically above another tradition's iconography within the same altar — and where this hierarchical positioning is itself a theological claim about the institutional identity.
+
+The Theravada Buddha — a Singapore-specific iconographic feature
+The small Buddha figure mounted in the niche behind Master Dafeng is in Thai/Theravada style — a tall, narrow standing Buddha on a tiered lotus base, with the sculptural conventions of mainland Southeast Asian Theravada Buddhism rather than Chinese Mahāyāna.
+Its presence in a Teochew Chinese Shan Tang temple is iconographically interesting. Several explanations are possible:
+1. Singapore institutional context
+   Singapore Buddhist institutions frequently incorporate
+   Theravada iconography due to the city-state's pan-Buddhist
+   environment (substantial Thai, Burmese, Sri Lankan
+   Theravada presence). Kong Meng San Phor Kark See
+   exhibits the same pattern at much larger scale.
+
+2. Donation or pilgrimage acquisition
+   The Buddha may have been acquired through a Thailand
+   pilgrimage or donated by a devotee; Theravada Buddha
+   images carry significant prestige in Chinese folk
+   Buddhism due to the perceived authenticity of their
+   provenance from a "Buddhist country."
+
+3. Universal Buddha-presence
+   The Theravada style may be selected precisely for its
+   recognizability as "the Buddha" without the cultural
+   particularity of Chinese stylistic conventions, making
+   the Buddha-frame above the altar legible to viewers
+   from multiple traditions.
+In analytical terms, the Theravada Buddha confirms the pattern previously documented at Kong Meng San: Singapore Chinese Buddhist institutions readily incorporate Theravada iconography as part of their Buddhist iconographic vocabulary. This temple is a small-scale instance of the same phenomenon visible at the institutional scale at KMSPKS.
+
+ENSEMBLE statement
+ENSEMBLE →
+
+  -- I. Principal triad
+  [MASTER_DAFENG  centers  HUATUO, HU_TIAN_YUANSHUAI]
+    [scope: altar]
+  [HUATUO  mirrors  HU_TIAN_YUANSHUAI]
+    [scope: altar]
+  [TRIAD  manifests  COMPREHENSIVE_CHARITABLE_PROGRAMME]
+    [scope: shrine]
+
+  -- II. Functional encoding
+  [HUATUO  manifests  MEDICAL_CHARITY]
+    [scope: shrine]
+  [MASTER_DAFENG  manifests  GENERAL_CHARITY]
+    [scope: shrine]
+  [HU_TIAN_YUANSHUAI  manifests  PROTECTIVE_SECURITY]
+    [scope: shrine]
+
+  -- III. Vertical iconographic frame
+  [BUDDHA_LIGHT_PLAQUE  surmounts  TRIAD]
+    [scope: shrine]
+  [THERAVADA_BUDDHA  surmounts  MASTER_DAFENG]
+    [scope: altar]
+  [BUDDHIST_REGISTER  surmounts  DAOIST_FOLK_REGISTER]
+    [scope: shrine]
+  [BUDDHIST_FRAME  brackets  SYNCRETIC_TRIAD]
+    [scope: shrine]
+
+  -- IV. Auxiliary iconography
+  [FRAMED_BODHISATTVA_IMAGES  flanks  MASTER_DAFENG]
+    [scope: altar]
+  -- two framed images (likely Avalokiteśvara forms)
+     positioned immediately beside the central deity
+
+  -- V. Institutional identification
+  [ALTAR_EMBROIDERY  identifies  NANYANG_TONG_FENG_SHAN_TANG]
+    [scope: altar]
+  [NTHST_INSCRIPTION  identifies  INSTITUTION]
+    [scope: altar]
+
+  -- VI. Iconographic registers
+  [MASTER_DAFENG  manifests  BUDDHIST_REGISTER]
+    [scope: shrine]
+  [HUATUO  manifests  DAOIST_FOLK_REGISTER]
+    [scope: shrine]
+  [HU_TIAN_YUANSHUAI  manifests  DAOIST_FOLK_REGISTER]
+    [scope: shrine]
+  [SHRINE  manifests  SYNCRETIC_INSTITUTION]
+    [scope: shrine]
+
+Comparative observation — Master Dafeng's positioning
+Master Dafeng's iconography at this altar is significant. Historically a Buddhist monk, he is positioned here:
+- on a lotus throne (Buddhist iconographic base)
+- in seated meditation/teaching posture (Buddhist convention)
+- holding a fly-whisk (拂塵, monastic implement)
+- under a Theravada Buddha (Buddhist supreme reference)
+- under a 佛光普照 plaque (Buddhist illumination claim)
+Every supportive iconographic element around Master Dafeng asserts his Buddhist identity. Yet he is flanked by Daoist deities and venerated within a Shan Tang charitable institution that is itself widely recognized as syncretic.
+This altar therefore enacts a specific theological position: Master Dafeng is a Buddhist patriarch whose Buddhist identity is preserved through iconographic framing, even as his cult is shared with non-Buddhist deities serving the same charitable mission. The Shan Tang tradition is presented as a Buddhist-led but functionally inclusive enterprise — Buddhist in foundation and theological frame, syncretic in operational practice.
+This is theologically distinct from the syncretism documented at Lian Shan Shuang Lin's Cheng Huang Temple. There, the folk-religious component (City God) is architecturally separated at the entrance threshold, with a clear spatial boundary between syncretic and Buddhist zones. Here, the folk-religious components (Huatuo, Hu Tian Yuanshuai) are iconographically integrated on the same altar as the Buddhist patriarch, with vertical hierarchy rather than spatial separation establishing the framing relation.
+TWO MODES OF SYNCRETIC INSTITUTIONAL ARCHITECTURE:
+
+1. Architectural separation (Lian Shan Shuang Lin)
+   Distinct buildings for Buddhist and folk components
+   Spatial boundary between traditions
+   Folk component at entrance threshold
+
+2. Iconographic integration (Da Feng Gu Si)
+   Single altar housing multiple traditions
+   Vertical hierarchy among traditions
+   Buddhist frame surmounting syncretic content
+RFIG documents both modes through different relational structures. The first uses coordinates across compound-scope buildings; the second uses surmounts and brackets within shrine-scope altar configurations. Both are coherent institutional theologies; they simply organize their syncretism through different architectural-iconographic means.
+
+Methodological note — small-temple analysis
+This analysis demonstrates that RFIG operates without modification at the small-temple scale. The same vocabulary that documents Kong Meng San's compound-level configuration documents this single-altar shrine. The grammar is genuinely scale-invariant: it documents iconographic configurations through their relational structure regardless of whether the configuration is a single altar in a community temple, a complex compound of dozens of buildings, or anything in between.
+This is methodologically significant for fieldwork on Chinese diaspora religion. The diaspora landscape includes:
+- Major monasteries (Kong Meng San, Lian Shan Shuang Lin)
+- Mid-scale temples
+- Community Shan Tang temples (Da Feng Gu Si and similar)
+- Family/clan ancestral halls
+- Single-deity shrines
+- Domestic altars
+RFIG can document each of these scales using the same vocabulary. The scope parameter on relations distinguishes the level of analysis (altar, shrine, compound, complex), allowing comparative analysis across scales without forcing all configurations into a single architectural mode.
