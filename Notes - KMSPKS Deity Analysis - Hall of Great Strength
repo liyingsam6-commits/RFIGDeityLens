@@ -1,0 +1,130 @@
+Hall of Great Strength
+Front-facing programme (main entrance side)
+ICON₁ — Śākyamuni Buddha (釋迦牟尼佛, Thai-style) (Central front altar)
+POSITION    : central, axial, elevated
+SCALE       : dominant
+ORIENTATION : front-facing (toward main entrance)
+FUNCTION    : soteriological, devotional, pedagogical, cosmological
+The Śākyamuni image is in the Thai bronze sculptural tradition — distinguished from Chinese Buddhist Śākyamuni images by its more elongated body proportions, the specific arrangement of the uṣṇīṣa and flame-like hair, and the simplified meditative robe drape. The plaque 大雄寶殿 identifies the hall canonically; the secondary plaque 人天教主 (Rén Tiān Jiào Zhǔ, "Teacher of Humans and Devas") identifies Śākyamuni's specific epithet — the historical Buddha as the teacher of all beings in the human and divine realms. This pedagogical framing is significant: the front-facing programme presents Śākyamuni primarily in his identity as teacher, the source from which the Dharma was transmitted into the present world.
+
+ICON₂ — Left Attendant (likely Ānanda, 阿難) ICON₃ — Right Attendant (likely Mahākāśyapa, 迦葉) (Flanking Śākyamuni)
+POSITION    : peripheral, paired-lateral
+SCALE       : subordinate
+ORIENTATION : inward-facing (toward Śākyamuni)
+FUNCTION    : pedagogical, devotional
+The two standing attendant figures flanking the central Buddha are the canonical paired disciples — Ānanda (the younger, associated with verbal transmission of the sūtras) and Mahākāśyapa (the older, associated with mind-to-mind transmission). Their function and relations to Śākyamuni follow the same logic established in the Lian Shan Shuang Lin Mahavira Hall analysis.
+
+ICON₄, ICON₅ — Paired Budai-Maitreya figures (Foreground, threshold zone of front altar)
+POSITION    : peripheral, paired-lateral, threshold
+SCALE       : subordinate
+ORIENTATION : front-facing
+FUNCTION    : devotional, apotropaic
+Two small dark wooden Budai-Maitreya figures with raised arms are visible in the foreground, positioned at the threshold zone of the altar. Their joyful raised-arm posture is characteristic of the welcoming Budai form. As paired threshold figures, they perform a role analogous to the child attendants documented at Lian Shan Shuang Lin's Avalokiteśvara hall — admitting the devotee into the principal sacred space with iconographic warmth. Their commemorative-devotional function is distinct from the principal Buddha's pedagogical function.
+
+Back-facing programme (rear entrance side)
+ICON₆ — Standing Amitābha (阿彌陀佛, Welcoming Form / 接引佛) (Central rear altar)
+POSITION    : central, axial, elevated
+SCALE       : dominant
+ORIENTATION : outward-facing (toward back entrance)
+FUNCTION    : soteriological, devotional, intercessory
+The standing Amitābha is shown in his canonical welcoming form: standing rather than seated (encoding active descent rather than meditative stillness), holding prayer beads in one hand, with the other hand in a welcoming-receiving gesture. This iconographic form is specifically associated with the moment of death in Pure Land devotional theology — Amitābha descends from the Western Pure Land to receive the dying soul and conduct it to rebirth in his Buddha-field. The plaque 彌陀慈父 ("Amitābha, Compassionate Father") emphasizes the paternal-receiving aspect of his role: the dying or deceased devotee is gathered into Amitābha's compassionate care.
+
+ICON₇, ICON₈ — Possibly Avalokiteśvara and Mahāsthāmaprāpta (Lateral figures visible in Images 3 and 4)
+Visible in Images 3 and 4 are at least one crowned bodhisattva figure (likely Avalokiteśvara or Mahāsthāmaprāpta) and additional smaller figures. If the configuration is the canonical Western Triad, then the back-facing programme is:
+Western Triad (rear-facing):
+  Amitābha (centre, standing welcoming form)
+  Avalokiteśvara (lateral, compassion)
+  Mahāsthāmaprāpta (lateral, wisdom)
+The reflections in the glass and the lighting make precise identification difficult from these photographs; closer fieldwork observation would confirm whether the full Western Triad is present or whether the lateral figures are differently identified. The analysis treats the Western Triad as the most likely configuration pending confirmation.
+
+Step 2 — ENSEMBLE statement
+ENSEMBLE →
+
+
+  -- I. Front-facing programme: Śākyamuni and disciples
+  [ŚĀKYAMUNI  centers  ĀNANDA, MAHĀKĀŚYAPA]
+    [scope: altar]
+  [ĀNANDA  mirrors  MAHĀKĀŚYAPA]
+    [scope: altar]
+  [ĀNANDA  faces  ŚĀKYAMUNI]
+    [scope: altar]
+  [MAHĀKĀŚYAPA  faces  ŚĀKYAMUNI]
+    [scope: altar]
+  [ĀNANDA  serves  ŚĀKYAMUNI]
+  [MAHĀKĀŚYAPA  serves  ŚĀKYAMUNI]
+  [ŚĀKYAMUNI  transmits  ĀNANDA]
+  [ŚĀKYAMUNI  transmits  MAHĀKĀŚYAPA]
+
+
+  -- II. Threshold Budai pair
+  [BUDAI_LEFT  mirrors  BUDAI_RIGHT]
+    [scope: altar]
+  [BUDAI_PAIR  brackets  FRONT_ALTAR_THRESHOLD]
+    [scope: altar]
+
+
+  -- III. Back-facing programme: Western Triad (provisional)
+  [AMITĀBHA  centers  AVALOKITEŚVARA, MAHĀSTHĀMAPRĀPTA]
+    [scope: altar]
+  [AVALOKITEŚVARA  mirrors  MAHĀSTHĀMAPRĀPTA]
+    [scope: altar]
+  [AVALOKITEŚVARA  serves  AMITĀBHA]
+  [MAHĀSTHĀMAPRĀPTA  serves  AMITĀBHA]
+  [AMITĀBHA  admits  DECEASED → WESTERN_PURE_LAND]
+    [scope: complex]
+
+
+  -- IV. The opposes configuration
+  [ŚĀKYAMUNI_PROGRAMME  opposes  AMITĀBHA_PROGRAMME]
+    [scope: shrine]
+  [ŚĀKYAMUNI  faces  MAIN_ENTRANCE]
+    [scope: compound]
+  [AMITĀBHA  faces  BACK_ENTRANCE]
+    [scope: compound]
+
+
+  -- V. Subordination
+  [ŚĀKYAMUNI  manifests  HISTORICAL_BUDDHA]
+    [scope: shrine]
+  [AMITĀBHA  manifests  WESTERN_PURE_LAND]
+    [scope: shrine]
+
+Step 3 — The opposes configuration: a temporal-soteriological reading
+The opposes relation between the front-facing Śākyamuni and the back-facing Amitābha encodes a theological structure that differs significantly from the Lian Shan Shuang Lin Mahavira Hall's opposes configuration. Where Lian Shan Shuang Lin paired the Three Buddhas with Avalokiteśvara — encoding prajñā and karuṇā as wisdom and compassion — Kong Meng San pairs Śākyamuni with Amitābha, encoding a temporal-soteriological complementarity.
+FRONT:  Śākyamuni — present-life teacher
+        (people encounter him through the Dharma in this lifetime)
+
+
+BACK:   Amitābha — at-death receiver
+        (people encounter him at the moment of dying,
+         to be received into the Pure Land)
+The hall's two sides therefore cover the two principal moments of Buddhist soteriological encounter: the present moment of Dharma practice in this life, and the moment of dying and rebirth. The arriving devotee meets the historical Buddha who taught the path; the departing soul meets the Pure Land Buddha who receives them onto the path's continuation. Both sides of the same axis, both forms of compassionate encounter, both necessary for the complete soteriological programme.
+This is a remarkably elegant solution. The opposes relation is the same grammatical structure as at Lian Shan Shuang Lin, but the theological content it carries here is temporal rather than dimensional — it pairs the moment of teaching with the moment of reception rather than wisdom with compassion. Both readings are valid Mahāyāna applications of the same architectural form, and RFIG can document the structural similarity while preserving the theological difference.
+
+Step 4 — Cross-monastery comparison: two Mahavira Halls
+The two Mahavira Halls now in the corpus can be compared at the structural level:
+LIAN SHAN SHUANG LIN MAHAVIRA HALL
+  Front:   Three Buddhas (Śākyamuni + Amitābha + Bhaiṣajyaguru)
+           with Ānanda + Mahākāśyapa
+  Back:    Avalokiteśvara
+  Opposes: prajñā ↔ karuṇā
+           (cosmic/dimensional complementarity)
+
+
+KONG MENG SAN HALL OF GREAT STRENGTH
+  Front:   Single Śākyamuni (Thai-style)
+           with Ānanda + Mahākāśyapa
+           with paired Budai-Maitreya threshold figures
+  Back:    Amitābha (welcoming form)
+           probably with Avalokiteśvara + Mahāsthāmaprāpta
+  Opposes: present-life teacher ↔ at-death receiver
+           (temporal/soteriological complementarity)
+The two halls demonstrate that the same fundamental architectural-theological structure — a Mahavira Hall organized around an opposes configuration — can encode different theological emphases through different choices of principal figures. RFIG captures the structural identity (both halls operate the opposes relation at shrine scope) while distinguishing the theological content (each hall pairs different deities with different complementarities).
+This is a methodologically significant finding for the broader corpus. The grammar's relations are stable across monasteries; the iconographic content these relations carry is variable and theologically meaningful. RFIG can therefore support both structural comparison (which Mahavira Halls use opposes?) and theological comparison (what specific complementarity does each hall encode through opposes?).
+
+Step 5 — The Thai-style Śākyamuni: a cross-traditional iconographic note
+The Thai bronze form of the principal Buddha at Kong Meng San deserves analytical attention beyond the formal RFIG ENSEMBLE. The choice to use a Theravada-tradition Śākyamuni image as the front-facing principal deity of a Chinese Mahāyāna monastery's Mahavira Hall is a deliberate iconographic statement. It encodes:
+Pan-Buddhist inclusivity: the historical Buddha is honored across both Theravada and Mahāyāna traditions, and the use of a Thai image signals that this monastery understands itself as participating in the broader Buddhist world rather than the Chinese Mahāyāna tradition alone.
+The historical Buddha's universality: by choosing an image style associated with the geographic region closer to the Buddha's historical origins, the iconographic decision emphasizes Śākyamuni as the historical figure whose teaching predates and underlies all later Buddhist traditions.
+Institutional positioning: KMSPKS has institutional connections with Theravada Buddhism, and the visible incorporation of Theravada iconographic conventions in the principal hall makes this institutional identity spatially explicit.
+In RFIG terms, this is captured neither as a positional nor a relational fact but as an iconographic register choice within the ICON description — the Śākyamuni at the front is iconographically Thai-style rather than Chinese-style, and this choice carries its own analytical weight as a feature of the figure's identity within the ensemble.
