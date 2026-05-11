@@ -24,3 +24,89 @@ FUNCTION    : soteriological, intercessory
 
 Kṣitigarbha is depicted in his canonical Chinese Buddhist form: a monk's figure holding a khakkhara (錫杖, the ringed staff that opens the gates of hell) in the right hand and a cintāmaṇi (如意寶珠, wish-fulfilling jewel) in the left. His vow — famously articulated in the Kṣitigarbha Sūtra — is to remain in the world until every being in hell has been liberated before he himself accepts Buddhahood. His soteriological function is therefore specifically oriented toward the most extreme conditions of suffering: he reaches into the lowest registers of existence to retrieve those whom other salvific programmes cannot access. His intercessory function is inseparable from this — he mediates between the living and the dead, between the human community and the afterlife realms, carrying petitions downward and liberation upward.
 His placement in the Bell Tower is iconographically resonant in ways discussed below under the History of Religions reading.
+
+Compound-level context: the Mahavira Hall
+The Mahavira Hall (大雄寶殿) is the monastery's principal hall, housing the Three Buddhas — canonically Śākyamuni flanked by Amitābha and Bhaiṣajyaguru, or in some configurations the Three Bodies of the Buddha. It is the soteriological and cosmological centre of the entire compound. All compound-scope relations in this analysis are directed toward or organized around this hall as the principal sacred node.
+ICON₀ — Mahavira Hall principal deity ensemble
+POSITION    : central, axial (compound scope)
+SCALE       : dominant (compound scope)
+FUNCTION    : soteriological, cosmological, devotional
+ENSEMBLE →
+
+  -- I. Compound-level bilateral organization
+  [BELL_TOWER  mirrors  DRUM_TOWER]
+    [scope: compound]
+
+  [BELL_TOWER  flanks  MAHAVIRA_HALL]
+    [scope: compound]
+  [DRUM_TOWER  flanks  MAHAVIRA_HALL]
+    [scope: compound]
+
+  [BELL_TOWER  faces  MAHAVIRA_HALL]
+    [scope: compound]
+  [DRUM_TOWER  faces  MAHAVIRA_HALL]
+    [scope: compound]
+
+  [BELL_TOWER  subordinates  MAHAVIRA_HALL]
+  [DRUM_TOWER  subordinates  MAHAVIRA_HALL]
+
+  [BELL_TOWER  coordinates[lateral, grouped, permanent]
+               MAHAVIRA_HALL]
+    [scope: compound]
+  [DRUM_TOWER  coordinates[lateral, grouped, permanent]
+               MAHAVIRA_HALL]
+    [scope: compound]
+
+  -- II. Niche framing (altar scope, each tower)
+  [NICHE_ARCH  frames  KSITIGARBHA]
+    [scope: altar]
+  [NICHE_ARCH  frames  GUAN_GONG]
+    [scope: altar]
+
+  -- III. Functional relations toward Mahavira Hall
+  [KSITIGARBHA  intercedes  DEVOTEES → MAHAVIRA_HALL]
+    [scope: compound]
+  [GUAN_GONG  guards  MAHAVIRA_HALL]
+    [scope: compound]
+  [GUAN_GONG  guards  MONASTERY_COMPOUND]
+    [scope: complex]
+
+  -- IV. Ontological relation — Guan Gong
+  [GUAN_GONG  substitutes  SANGHARAMA_DEVA]
+
+  -- V. Temporal-cosmological relation (architectural)
+  [BELL_TOWER  coordinates[lateral, grouped, permanent]
+               DRUM_TOWER]
+    [scope: compound]
+
+Relational analysis
+mirrors [compound scope]
+Bell Tower and Drum Tower The two towers occupy bilaterally symmetric positions flanking the Mahavira Hall — equal in architectural scale, equal in structural form, each housing a single deity in a niche of identical design. Their mirroring at compound scope is the primary organizational principle of this section of the monastery. But unlike the paired pagodas in the Avalokiteśvara hall — whose mirroring encoded cosmological balance between two iconographically identical structures — the Bell and Drum Towers mirror at the level of architectural form while containing iconographically distinct and functionally complementary figures. The mirroring says: these two positions are structurally equivalent. The contents say: the functions they house are different and jointly necessary.
+
+flanks [compound scope] At compound scope, the towers flank the Mahavira Hall as a lateral pair — they are positioned to its left and right and their presence defines the principal hall's spatial boundary. The flanks relation at compound scope encodes the architectural subordination of the towers to the hall: they are organized around it, not independently of it.
+faces [compound scope] Both towers, as units, are inward-facing toward the Mahavira Hall. This orientation is not visible within the individual niche photographs — the deities face outward from their niches toward the devotee approaching the tower — but it is encoded in the architectural orientation of the towers themselves relative to the compound's central axis. The tower-level faces relation is a compound-scope claim about the spatial programme, not an altar-scope claim about the icon's gaze.
+
+intercedes [compound scope] — Kṣitigarbha Kṣitigarbha's intercessory function operates between the living community that worships at the monastery and the dead who require liberation from the lower realms. His placement in the Bell Tower, flanking the principal soteriological hall, positions him as the compound's specialist in afterlife intercession — the figure to whom petitions for deceased family members are directed, and through whom the monastery's soteriological programme extends into the realm of the dead. His intercedes relation is directed toward the Mahavira Hall at compound scope: he channels the concerns of the dead upward toward the principal Buddhas whose liberative power can address them.
+
+guards [compound and complex scope] — Guan Gong Guan Gong's protective function operates at two scope levels simultaneously. At compound scope, he guards the Mahavira Hall — his position flanking the principal hall assigns him a direct protective relation to the monastery's most sacred space. At complex scope, his function as Sangharama Deva extends beyond any single building to the integrity of the entire monastic boundary. This dual-scope guardianship is encoded in the two separate guards statements in the ENSEMBLE, which R5 requires to be kept distinct: the compound-scope claim is about the hall; the complex-scope claim is about the institution.
+substitutes — Guan Gong for Sangharama Deva This is the ontological relation that makes Guan Gong's presence in a Buddhist monastery analytically legible rather than merely anomalous. Sangharama Deva is the canonical Buddhist protective deity of the monastic compound; Guan Gong is a folk-religious and Taoist figure of martial virtue and absolute loyalty whose attributes map onto that protective role with sufficient precision for the Chinese Buddhist tradition to identify them. The substitutes relation does not claim that Guan Gong is Sangharama Deva in an ontological sense — it claims that within this specific institutional and ritual context, Guan Gong stands in for Sangharama Deva, performing his function and occupying his iconographic slot. This is precisely the kind of syncretic equivalence for which the grammar's ontological dimension was designed.
+
+The Bell and Drum Towers: a temporal dimension
+
+The Bell Tower and Drum Tower in a Chinese Buddhist monastery are not merely architectural structures that happen to house deities. They are instruments of monastic time. The bell is struck at dawn to mark the beginning of the day's ritual programme; the drum is struck at dusk to mark its close. Together they divide and consecrate monastic time, imposing a sacred rhythm on the community's daily life. This temporal function is embedded in the architectural identity of the towers themselves, independent of whichever deities they house.
+
+In RFIG terms this generates a cosmological function that belongs to the towers as architectural units rather than to the icons within them:
+FUNCTION(BELL_TOWER as structure)  : cosmological (temporal)
+FUNCTION(DRUM_TOWER as structure)  : cosmological (temporal)
+
+The decision to house Kṣitigarbha in the Bell Tower and Guan Gong in the Drum Tower is therefore an alignment of iconographic function with architectural-temporal function. The bell that marks dawn and awakening houses the bodhisattva who awakens beings from the sleep of hellish suffering. The drum that marks dusk and the close of the day houses the guardian whose vigilance continues through the night. Whether this alignment is deliberate institutional theology or an emergent resonance that the community has come to recognize, it is analytically significant and should be recorded.
+
+Analysis
+
+Eliade: the sacred boundary and its guardians Eliade's analysis of sacred space identifies the temple boundary as a cosmologically constituted perimeter — the line that separates the ordered cosmos within from the undifferentiated chaos without. The guardians of this boundary are not decorative; they are ontologically necessary. Without them, the sacred interior has no defined edge and the cosmos it instantiates bleeds into the surrounding disorder. Guan Gong's placement at the Drum Tower performs exactly this boundary-constituting function at compound and complex scope: he is the agent through whom the monastery's perimeter is cosmologically defined and actively maintained.
+
+Kṣitigarbha's placement at the Bell Tower extends this boundary logic in a direction Eliade's analysis of the axis mundi also addresses: the vertical axis connecting the living world to the realms below. If Guan Gong maintains the horizontal boundary of the monastery against lateral intrusion, Kṣitigarbha maintains the vertical boundary between the world of the living and the world of the dead, reaching downward into the lower realms and drawing their inhabitants upward toward liberation. The two towers together constitute a complete boundary programme: horizontal perimeter (Guan Gong) and vertical axis (Kṣitigarbha), with the Mahavira Hall at the sacred centre where the two axes meet.
+
+Van Gennep: threshold and passage at compound scope The Hall of Heavenly Kings analysis identified the monastery's entrance threshold as a liminal zone managed by Maitreya and Skanda. The Bell and Drum Towers extend this liminal programme to a second threshold: the boundary between the preliminary zone of the entrance hall and the principal zone of the Mahavira Hall. The devotee who has passed through the Hall of Heavenly Kings now approaches the monastery's central sacred space flanked by Kṣitigarbha on the right and Guan Gong on the left. This is a second rite of passage: the first threshold prepared the devotee cosmologically (the Hall of Heavenly Kings oriented them within the Buddhist universe); this threshold prepares them soteriologically (Kṣitigarbha's presence reminds them of the stakes of liberation; Guan Gong's presence assures them of the monastery's protected integrity).
+
+The syncretic logic of Guan Gong's presence From a History of Religions perspective, Guan Gong's presence in a Buddhist monastery is a case study in what Duara calls superscription — the process by which a religious tradition writes its own meanings onto figures and symbols that originate elsewhere, gradually transforming their significance while retaining their recognizable form. Guan Yu the historical general, Guan Gong the folk deity of righteousness and brotherhood, and Garan Shenwang the Buddhist monastery guardian are three layers of identity superscribed onto a single iconographic form. RFIG's substitutes relation names the most recent layer of this superscription without erasing the others — it records the institutional identification without claiming ontological collapse between the original figure and the role he now performs.
