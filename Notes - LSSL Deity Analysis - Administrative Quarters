@@ -1,0 +1,24 @@
+This photograph presents a case the grammar has not yet encountered in this corpus: a primarily functional building that nonetheless maintains an internal sacred axis. The plaque above the entrance reads 寺務寮 (Sì Wù Liáo) — the monastery's administrative quarters, the building housing institutional offices and monastic administration. The sign to the right confirms: 寺務处 Office. 
+
+ICON₁ — Avalokiteśvara (觀世音菩薩) POSITION : central, axial, recessed SCALE : singular ORIENTATION : front-facing (toward entrance) FUNCTION : devotional, intercessory 
+
+ENSEMBLE →
+
+  -- I. Threshold framing
+  [ENTRANCE_COLUMNS  brackets[architectural]  ADMINISTRATIVE_ENTRANCE]
+    [scope: shrine]
+
+  -- II. Depth-axis deity placement
+  [ENTRANCE  coordinates[depth, grouped, permanent]  INTERIOR_DEITY]
+    [scope: shrine]
+
+  -- III. Altar framing
+  [CARVED_SCREEN  frames  INTERIOR_DEITY]
+    [scope: altar]
+
+  -- IV. Functional relation (conditional on identification)
+  
+ [AVALOKITEŚVARA  intercedes  MONASTIC_COMMUNITY → DHARMA]
+    [scope: compound]
+  [AVALOKITEŚVARA  admits  MONASTIC_STAFF, VISITORS]
+    [scope: shrine]
