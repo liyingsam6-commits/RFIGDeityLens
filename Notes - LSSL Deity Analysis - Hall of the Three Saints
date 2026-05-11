@@ -1,0 +1,118 @@
+Hall of the Three Saints (三聖殿)
+
+Lian Shan Shuang Lin Monastery
+Preliminary observation
+The Hall of the Three Saints is named after the Three Saints of the West (西方三聖, Xīfāng Sān Shèng) — the canonical Pure Land iconographic triad of Amitābha Buddha and his two attendant bodhisattvas. The hall is therefore explicitly a Pure Land devotional hall, dedicated to the iconographic and ritual programme of Pure Land Buddhist practice. The hall name does not name a function (as "Ritual Hall" would have); it names the deities. The monastery's institutional self-understanding of this space is iconographic-devotional rather than functional.
+This is consistent with the iconographic configuration documented in the photograph. The Western Triad in standing form, on lotus pedestals, with Amitābha holding a lotus in his hands (the canonical attribute for receiving souls into the Pure Land), encoded the soteriological programme of Pure Land Buddhism: rebirth in the Western Pure Land at the moment of death, mediated by Avalokiteśvara's compassion and Mahāsthāmaprāpta's wisdom.
+The hall's functional uses — Pure Land devotional chanting (nianfo 念佛), memorial services, funerary rites, daily monastic chanting — are activities that the iconographic programme supports rather than the identity that defines the hall. The hall is for these activities because of the Three Saints it houses, not the other way around.
+
+Step 1 — ICON descriptions
+ICON₁ — Amitābha Buddha (阿彌陀佛) (Central, rear)
+POSITION    : central, axial, elevated
+SCALE       : dominant
+ORIENTATION : front-facing
+FUNCTION    : soteriological, devotional, cosmological
+Standing Buddha form with monastic robes and ushnisha, holding a lotus in his hands (the canonical attribute for receiving souls into the Pure Land), framed by an elaborate flame-leaf mandorla. His soteriological function is specifically Pure Land in orientation — he receives the souls of the deceased into the Western Pure Land, where they continue their progress toward Buddhahood under conditions ideal for spiritual cultivation.
+
+ICON₂ — Avalokiteśvara (觀世音菩薩) (Right of Amitābha, viewer's left or right depending on canonical arrangement)
+POSITION    : peripheral, paired-lateral, elevated
+SCALE       : equal (relative to Mahāsthāmaprāpta),
+              subordinate (relative to Amitābha)
+ORIENTATION : front-facing
+FUNCTION    : soteriological, intercessory, devotional
+ICON₃ — Mahāsthāmaprāpta (大勢至菩薩) (Left of Amitābha)
+POSITION    : peripheral, paired-lateral, elevated
+SCALE       : equal (relative to Avalokiteśvara),
+              subordinate (relative to Amitābha)
+ORIENTATION : front-facing
+FUNCTION    : soteriological, devotional
+The two flanking bodhisattvas wear elaborate crowns and hold lotus stems. Avalokiteśvara represents the karuṇā (compassion) dimension of Pure Land soteriology — guiding souls toward Amitābha through compassionate response. Mahāsthāmaprāpta represents the prajñā (wisdom) dimension — illuminating the path toward rebirth through the power of awakened insight. Together with Amitābha they constitute the canonical Western Triad: the Buddha at the centre, compassion and wisdom as his two inseparable attendants.
+
+ICON₄ and ICON₅ — Two seated attendant figures (Middle register, between and below the main triad)
+POSITION    : peripheral, recessed, paired-lateral
+SCALE       : subordinate
+ORIENTATION : inward-facing or front-facing
+              (provisional pending closer observation)
+FUNCTION    : pedagogical, devotional
+              (provisional)
+These smaller golden seated figures with halos appear positioned as attendants to the central programme. Their identification requires closer fieldwork observation — possible candidates include Ānanda and Mahākāśyapa (the canonical disciples), seated bodhisattva attendants, or smaller emanations of the principal figures. The analysis treats them as paired pedagogical/devotional attendants pending confirmation.
+
+ICON₆ — (Sangharama Deva / Guan Gong)
+POSITION    : peripheral, paired-lateral
+SCALE       : subordinate
+ORIENTATION : outward-facing
+FUNCTION    : protective, apotropaic, administrative
+ICON₇ — (Skanda / Wei Tuo)
+POSITION    : peripheral, paired-lateral
+SCALE       : subordinate
+ORIENTATION : outward-facing
+FUNCTION    : protective, apotropaic
+The two armored figures at the front of the altar platform appear to be the canonical paired Buddhist monastery guardians — Sangharama Deva (the bearded, more wrathful figure on the viewer's left) and Skanda (the youthful golden armored figure on the viewer's right). Their presence flanking the Western Triad is iconographically standard for ritual halls: the soteriological programme at the centre is protected by the institutional and dharma-protective figures at the periphery.
+
+ICON₈ — Front altar Avalokiteśvara (seated)
+POSITION    : central, axial, recessed (front offering altar)
+SCALE       : singular (front altar context)
+ORIENTATION : front-facing
+FUNCTION    : devotional, intercessory
+The small seated golden Avalokiteśvara on the front offering altar, framed by the monastery's name embroidered on the yellow cloth panel, occupies a distinct iconographic position from the Avalokiteśvara within the Western Triad. She is the devotional point of immediate ritual address — the figure to whom offerings on the front altar are presented — while the Avalokiteśvara within the triad participates in the larger soteriological programme presided over by Amitābha.
+
+Step 2 — ENSEMBLE statement
+ENSEMBLE →
+  -- I. Western Triad
+  [AMITĀBHA  centers  AVALOKITEŚVARA, MAHĀSTHĀMAPRĀPTA]
+    [scope: altar]
+  [AVALOKITEŚVARA  mirrors  MAHĀSTHĀMAPRĀPTA]
+    [scope: altar]
+  [AMITĀBHA  surmounts  AVALOKITEŚVARA]
+    [scope: altar]
+  [AMITĀBHA  surmounts  MAHĀSTHĀMAPRĀPTA]
+    [scope: altar]
+  [AVALOKITEŚVARA  subordinates  AMITĀBHA]
+  [MAHĀSTHĀMAPRĀPTA  subordinates  AMITĀBHA]
+  [AVALOKITEŚVARA  serves  AMITĀBHA]
+  [MAHĀSTHĀMAPRĀPTA  serves  AMITĀBHA]
+
+  -- II. Mandorla framing
+  [MANDORLA  frames  AMITĀBHA]
+    [scope: altar]
+  [MANDORLA_LEFT  frames  AVALOKITEŚVARA]
+    [scope: altar]
+  [MANDORLA_RIGHT  frames  MAHĀSTHĀMAPRĀPTA]
+    [scope: altar]
+
+  -- III. Attendant figures (provisional)
+  [ATTENDANT_LEFT  mirrors  ATTENDANT_RIGHT]
+    [scope: altar]
+  [ATTENDANT_PAIR  subordinates  AMITĀBHA]
+  [ATTENDANT_PAIR  serves  WESTERN_TRIAD]
+    [scope: altar]
+
+  -- IV. Guardian pair
+  [SANGHARAMA  mirrors  SKANDA]
+    [scope: altar]
+  [GUARDIAN_PAIR  guards  WESTERN_TRIAD]
+    [scope: altar]
+  [GUARDIAN_PAIR  brackets  ALTAR_FRONT]
+    [scope: altar]
+  [GUARDIAN_PAIR  subordinates  AMITĀBHA]
+
+  -- V. Front altar Avalokiteśvara
+  [FRONT_AVALOKITEŚVARA  coordinates[axial, grouped, permanent]
+                          AMITĀBHA]
+    [scope: altar]
+  [FRONT_AVALOKITEŚVARA  intercedes  DEVOTEES → AMITĀBHA]
+    [scope: altar]
+
+  -- VI. Functional relation
+  [WESTERN_TRIAD  manifests  PURE_LAND]
+    [scope: shrine]
+  [AMITĀBHA  admits  DECEASED → WESTERN_PURE_LAND]
+    [scope: complex]
+
+  -- VII. Compound-level pair
+  [RITUAL_HALL  mirrors  ADMINISTRATIVE_QUARTERS]
+    [scope: compound]
+
+Step 3 — The Western Triad as soteriological cosmogram
+The Western Triad is one of the two canonical triadic Buddha programmes in Chinese Buddhist iconography, the other being the Three Buddhas of the Mahavira Hall. The two encode different soteriological logics. The Three Buddhas in the Mahavira Hall — Śākyamuni flanked by Amitābha and Bhaiṣajyaguru — represent the cosmological structure of Buddhahood across the three realms (present world, Western Pure Land, Eastern Lapis Lazuli realm). The Western Triad represents the soteriological mechanism of Pure Land rebirth specifically: Amitābha receives, Avalokiteśvara guides through compassion, Mahāsthāmaprāpta illuminates through wisdom.
+The repetition of Amitābha across both halls — flanking Śākyamuni in the Mahavira Hall, central in the Ritual Hall — is theologically significant. In the Mahavira Hall, Amitābha is one Buddha among three, situated within the cosmological completeness of the Buddhist universe. In the Ritual Hall, he is the central programmatic figure, the soteriological agent of the specific operation the hall is designed to perform: the reception of souls into the Pure Land at the moment of death and through commemorative rites afterward.
