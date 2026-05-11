@@ -1,0 +1,83 @@
+Hall of Universal Brightness 
+INTERPRETATION 1 — Three Buddhas of Past, Present, Future
+  Past:    Dīpaṅkara (燃燈佛)
+  Present: Śākyamuni (釋迦牟尼佛)
+  Future:  Maitreya (彌勒佛)
+
+INTERPRETATION 2 — Trikāya (Three Bodies)
+  Dharmakāya:    Truth Body
+  Saṃbhogakāya:  Bliss/Enjoyment Body
+  Nirmāṇakāya:   Manifestation Body
+
+INTERPRETATION 3 — Three Directional Buddhas (橫三世佛)
+  Centre:  Śākyamuni
+  Left of Śākyamuni (viewer's right): Amitābha (Western Pure Land)
+  Right of Śākyamuni (viewer's left): Bhaiṣajyaguru (Eastern Pure Land)
+All three interpretations are simultaneously affirmed by the institution. This is itself the doctrinal claim the hall is making.
+3. The doctrinal teaching. The KMSPKS explanation makes the underlying theological point explicit: "These interpretations remind us that all forms, including images of the Buddha, are inherently empty of any fixed essence, self-nature or substantiality." The Chinese version is more precise: 緣起性空 (yuánqǐ xìngkōng) — dependent origination and emptiness of self-nature. This is Madhyamaka śūnyatā teaching, materially encoded. The multiplicity of interpretations is not a hermeneutic embarrassment to be resolved; it is the doctrine itself. Because all forms are empty of fixed essence and arise dependently, no single interpretation can be definitive. The same three sculptural forms simultaneously are the three temporal Buddhas, the three Bodies of Buddhahood, and the three directional Pure Land Buddhas — and this very simultaneity demonstrates that no form has fixed essence.
+The deliberate sculptural near-identity of the three figures, which seemed analytically puzzling in the previous reading, is now revealed as doctrinally necessary. If the three figures were iconographically differentiated by mudrā, attribute, or scale, they could only support one interpretation. Because they are formally near-identical, all three readings remain simultaneously available — and this availability is itself the teaching.
+
+ICON descriptions
+ICON₁ — Central Buddha
+  Identification: Śākyamuni (under all three interpretations)
+  POSITION:    central, axial
+  SCALE:       equal (relative to flanks)
+  ORIENTATION: front-facing
+  FUNCTION:    soteriological, devotional, cosmological
+  REGISTER:    Theravada-Burmese
+
+ICON₂ — Left Buddha (viewer's left = Śākyamuni's right)
+  Identification: Bhaiṣajyaguru / Eastern Pure Land Buddha
+                  (under spatial-directional interpretation)
+                  OR Past Buddha (Dīpaṅkara)
+                  OR Dharmakāya / Saṃbhogakāya
+  Same POSITION, SCALE, ORIENTATION, FUNCTION, REGISTER as ICON₁
+
+ICON₃ — Right Buddha (viewer's right = Śākyamuni's left)
+  Identification: Amitābha / Western Pure Land Buddha
+                  (under spatial-directional interpretation)
+                  OR Future Buddha (Maitreya)
+                  OR remaining Trikāya body
+  Same POSITION, SCALE, ORIENTATION, FUNCTION, REGISTER as ICON₁
+The deliberate non-fixing of identity in ICON₂ and ICON₃ is faithful to the institutional theology. Each lateral figure is simultaneously three different Buddhas, and RFIG should document this multiplicity rather than collapse it into a single identification.
+
+ENSEMBLE statement
+ENSEMBLE →
+  -- I. Triadic configuration
+  [BUDDHA_CENTRE  centers  BUDDHA_LEFT, BUDDHA_RIGHT]
+    [scope: altar]
+  [BUDDHA_LEFT  mirrors  BUDDHA_RIGHT]
+    [scope: altar]
+
+  -- II. Equal-scale claim
+  [ALL_BUDDHAS  coordinates[lateral, grouped, permanent]]
+    [scope: altar]
+  -- scalar equivalence is doctrinally necessary,
+  -- not merely an aesthetic choice
+
+  -- III. Architectural framing
+  [WALL_ARCH  frames[architectural]  EACH_BUDDHA]
+    [scope: altar]
+
+  -- IV. Multiple simultaneous manifests relations
+  [BUDDHA_TRIAD  manifests  THREE_TIMES_BUDDHAHOOD]
+    [scope: shrine]
+  [BUDDHA_TRIAD  manifests  TRIKĀYA]
+    [scope: shrine]
+  [BUDDHA_TRIAD  manifests  THREE_DIRECTIONAL_BUDDHAS]
+    [scope: shrine]
+
+  -- V. Meta-level manifests relation (doctrinal)
+  [BUDDHA_TRIAD  manifests  ŚŪNYATĀ / 緣起性空]
+    [scope: shrine]
+  -- The simultaneity of multiple interpretations
+  -- itself encodes the emptiness of fixed essence
+  -- in all forms, including Buddha-images.
+
+  -- VI. Compound-level institutional claim
+  [HALL_OF_UNIVERSAL_BRIGHTNESS  manifests
+                                  MONASTERY_FOUNDATIONAL_IDENTITY]
+    [scope: complex]
+  -- The first hall built at KMSPKS;
+  -- establishes institutional doctrinal identity
+The fifth section adds a relation type RFIG has not previously deployed: a meta-level manifests that takes other manifests relations as its object. The Buddha Triad manifests śūnyatā precisely through the simultaneity of its other manifestations — emptiness is demonstrated by the fact that no single identification exhausts the figures. This is a recursive use of the manifests relation, where what is manifested is the doctrinal status of multiple manifestations.
