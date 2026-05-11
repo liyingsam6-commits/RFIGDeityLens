@@ -1,0 +1,108 @@
+#Hall of the Celestial Kings
+
+ICON₁ — Maitreya (布袋彌勒佛, Budai form) 
+POSITION    : central, axial
+SCALE       : intermediate
+              (subordinate to CELESTIAL_KINGS,
+               dominant over SKANDA)
+ORIENTATION : outward-facing (toward front entrance)
+FUNCTION    : soteriological, devotional, cosmological
+
+ICON₂ — Skanda (韋馱菩薩, Wei Tuo) 
+POSITION    : axial, recessed (immediately behind MAITREYA)
+SCALE       : subordinate
+ORIENTATION : outward-facing (toward back entrance)
+FUNCTION    : apotropaic, protective
+
+ICON₃ — King Chíguó (持國天王, Dhr̥tarāṣṭra) + King Zēngzhǎng (增長天王, Virūḍhaka) (Right side of hall)
+POSITION    : peripheral, paired-lateral
+SCALE       : dominant
+ORIENTATION : inward-facing
+FUNCTION    : apotropaic, protective, cosmological, administrative
+
+ICON₄ — King Guǎngmù (廣目天王, Virūpākṣa) + King Duōwén (多聞天王, Vaiśravaṇa) (Left side of hall)
+POSITION    : peripheral, paired-lateral
+SCALE       : dominant
+ORIENTATION : inward-facing
+FUNCTION    : apotropaic, protective, cosmological, administrative
+The Four Celestial Kings (Sì Dà Tiānwáng 四大天王) are the guardians of the four cardinal directions in Buddhist cosmology, dwelling on the slopes of Mount Meru and protecting the world from demonic incursion. Their iconographic attributes are diagnostic: Dhr̥tarāṣṭra holds a pipa lute (his music subdues demons); Virūḍhaka holds a sword; Virūpākṣa holds a serpent and a pearl; Vaiśravaṇa holds a pagoda and a banner. Their paired arrangement — two per side wall — divides the canonical group of four into two facing groups of two, each group constituting an altar ensemble within the larger hall ensemble.
+Their dominant scale relative to Maitreya is one of the most analytically significant features of this hall and a direct test of interpretation rules R1 and R2, discussed below.
+Their administrative function is important to record explicitly: the Four Celestial Kings are not merely protective figures — they hold offices within the Buddhist cosmic hierarchy, governing the four directions and reporting on human conduct to Indra (Śakra). Their presence in this hall encodes the administrative structure of the Buddhist cosmos, not only its defensive perimeter.
+ENSEMBLE →
+
+  -- I. Hall-level central organization
+  [MAITREYA  centers  SKANDA, CELESTIAL_KINGS_RIGHT,
+                      CELESTIAL_KINGS_LEFT]
+    [scope: shrine]
+
+  -- II. Maitreya–Skanda axial configuration (REVISED)
+  [MAITREYA  opposes  SKANDA]
+    [scope: shrine]
+  [MAITREYA  surmounts  SKANDA]
+  [MAITREYA  subordinates  SKANDA]
+  [MAITREYA  coordinates[axial, grouped, permanent]  SKANDA]
+    [scope: shrine]
+
+  -- III. Celestial Kings — bilateral organization
+  [CELESTIAL_KINGS_RIGHT  mirrors  CELESTIAL_KINGS_LEFT]
+    [scope: shrine]
+  [CELESTIAL_KINGS_RIGHT  faces  MAITREYA]
+    [scope: shrine]
+  [CELESTIAL_KINGS_LEFT  faces  MAITREYA]
+    [scope: shrine]
+  [CELESTIAL_KINGS_RIGHT  subordinates  MAITREYA]
+  [CELESTIAL_KINGS_LEFT  subordinates  MAITREYA]
+
+  -- IV. Celestial Kings — internal group organization
+  [CHIGU  coordinates[lateral, grouped, permanent]  ZENGZHANG]
+    [scope: altar]
+  [GUANGMU  coordinates[lateral, grouped, permanent]  DUOWEN]
+    [scope: altar]
+
+  -- V. Celestial Kings — scale relation (triggers R1)
+  [CELESTIAL_KINGS_RIGHT  surmounts  MAITREYA]
+    [scope: shrine]
+  [CELESTIAL_KINGS_LEFT  surmounts  MAITREYA]
+    [scope: shrine]
+
+  -- VI. Threshold coverage (REVISED)
+  [MAITREYA  admits  DEVOTEES → HALL]
+    [scope: compound]
+  [SKANDA  guards  BACK_THRESHOLD]
+    [scope: shrine]
+  [SKANDA  brackets  BACK_ENTRANCE]
+    [scope: shrine]
+  [CELESTIAL_KINGS  guards  HALL]
+    [scope: shrine]
+
+  -- VII. Compound-level directional relations (REVISED)
+  [MAITREYA  faces  FRONT_ENTRANCE]
+    [scope: compound]
+  [SKANDA  faces  BACK_ENTRANCE]
+    [scope: compound]
+
+opposes [scope: shrine] opposes encodes a double threshold guardianship: both figures are outward-facing, each claiming one of the hall's two openings. The hall has no unguarded threshold. Maitreya holds the front; Skanda holds the rear. The axis is a complete perimeter claim along the hall's central line. The hall structured as a sealed sacred space, bounded at both ends by figures whose orientations together cover the full axis of approach and departure. The devotee who passes through the front entrance under Maitreya's gaze, crosses the hall, and exits through the back entrance passes under Skanda's gaze in turn. Entry is welcomed; exit into the deeper monastery is guarded. 
+
+admits [compound scope] — Maitreya toward front entrance Maitreya's admits relation is now more precisely defined. He does not merely welcome — he specifically authorizes passage through the front threshold into the hall. His outward-facing orientation and welcoming iconographic form together constitute the iconographic statement that entry is open, meritorious, and unconditional.
+
+surmounts vs. subordinates — the Maitreya–Skanda pair Maitreya surmounts Skanda spatially — he is on the larger, more prominent altar platform at the centre of the hall. But Maitreya subordinates Skanda hierarchically — Skanda is a bodhisattva, not a Buddha, and his function is service to the Dharma that Maitreya embodies. The two statements are not contradictory: they operate on different analytical dimensions. Spatial prominence and hierarchical rank produce different orderings for the same pair, which is precisely what the grammar's separation of spatial and hierarchical relations is designed to handle.
+
+surmounts — Celestial Kings over Maitreya [scope: shrine] The Celestial Kings are physically larger than Maitreya. The grammar requires that this be recorded as a surmounts relation at shrine scope — they occupy a dominant scale position relative to the central figure. This is where Section V of the ENSEMBLE statement becomes analytically necessary: the grammar must record the spatial fact before the interpretation rules override its hierarchical implications.
+
+subordinates — Celestial Kings to Maitreya The Four Celestial Kings subordinates Maitreya in the scope-free hierarchical sense: they are protectors of the Dharma, not its embodiment or future culmination. Their rank relation to Maitreya is stable and canonical regardless of how any particular temple spatially realizes it. The co-presence of surmounts (spatial) and subordinates (hierarchical) in the same ENSEMBLE for the same pair is the direct activation of interpretation rules R1 and R2.
+
+mirrors — Celestial Kings groups [scope: shrine] The two groups of two kings face each other across the hall in bilateral symmetry. Unlike the arhat groups in the Avalokiteśvara hall — where mirroring held at the level of ensemble structure containing internally differentiated figures — the Celestial Kings mirror at a higher level of internal complexity. Each group of two contains two iconographically distinct figures (different attributes, different directional jurisdictions) arranged side by side, and the two groups mirror each other as wholes. The mirroring encodes the cosmological completeness of the four directions: all cardinal directions are covered, bilaterally balanced, oriented inward toward the hall's centre.
+
+guards and brackets [shrine scope] — Skanda toward back entrance The revised Skanda guards the back threshold — the passage from the Hall of Heavenly Kings into the monastery compound proper. Two relations are now simultaneously operative. Guards encodes his active apotropaic function: he prevents malevolent forces from entering the hall and the monastery through the rear. Brackets encodes his positional function: he marks the back threshold as a ritually constituted boundary, not merely an architectural opening. Together these two relations describe a figure who both marks and actively defends the rear perimeter of the hall. 
+
+The Celestial Kings' guards relation is the compound-scope claim The compound-scope claim is distributed across the hall's entire iconographic programme. The Celestial Kings guard the hall at shrine scope; Maitreya admits at compound scope; Skanda guards the rear threshold at shrine scope. The compound-level protection of the monastery's inner precincts is now an emergent property of the combined programme.
+
+Interpretation
+
+R1 — The Celestial Kings' dominant scale does not determine their status This is the most direct test of R1 in the entire corpus analyzed so far. The Four Celestial Kings are physically the largest figures in the hall. A visitor who had no knowledge of Buddhist iconography and read status from scale alone would conclude that the Celestial Kings are the principal sacred figures and that the small laughing figure at the centre is subsidiary. RFIG's grammar records the spatial fact (surmounts) while interpretation rule R1 explicitly prohibits the inference of hierarchical primacy from it. The subordinates relation, assigned on the basis of canonical Buddhist cosmological hierarchy rather than visual scale, corrects the reading: the Celestial Kings are protectors of the space within which Maitreya is the principal devotional and soteriological presence.
+
+R2 — Function within ritual context determines status Within the specific ritual context of the entrance hall, each figure's function is precisely differentiated. Maitreya's devotional and soteriological function assigns him the status of principal sacred presence — he is the figure whose encounter initiates the devotee's entry into the monastery's spiritual programme. The Celestial Kings' apotropaic and administrative functions assign them a different kind of status — operational authority over the cosmological defence of the hall — that is not in competition with Maitreya's soteriological authority but complementary to it. Skanda's protective function gives him authority over the defended interior at compound scope. Three distinct status claims, three distinct functional domains, one hall.
+
+R4 — simultaneity Skanda simultaneously guards the back threshold, brackets the rear entrance, opposes Maitreya on the central axis, and subordinates to Maitreya hierarchically. These four relations are all concurrently true and each encodes a distinct analytical dimension. Critically, the subordinates relation holds even though Skanda occupies the threshold that admits passage into the most sacred zones of the monastery compound — his hierarchical subordination to Maitreya is a canonical rank claim, not a spatial one.
+
+R5 — scope Skanda guards the back threshold of the hall he stands in, not the main hall beyond it. The compound-level implication — that his presence at the rear threshold also protects the monastery interior — is real but is now an inference from his shrine-scope position. R5 requires that the scope of the directly observable relation and the scope of any inferred claim be kept distinct.
