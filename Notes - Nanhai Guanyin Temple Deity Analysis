@@ -1,60 +1,149 @@
-Overall altar configuration
-Single-altar Bodhisattva-centered composition with one principal deity (Thousand-Armed Guan Yin / 千手千眼觀音) anchoring the visual and hierarchical field. Inner attendant pair flanks the central figure at the same platform tier. A background niche register houses supplementary smaller figures (Buddha/Bodhisattva forms — individual identification not possible from this image). Lower platform tier holds smaller flanking figures, probably protective in function. Forward offering table holds standard offerings (fruit, flowers, incense) and a plaque tentatively reading 福德. Two tall multi-banded vertical elements flank the altar exterior, probably five-coloured ritual pillars.
-ENSEMBLE notation
-Primary ensemble [altar]:
+Institutional identity
+The temple carries two public-facing inscriptions:
+南海觀音寺 (Nánhǎi Guānyīn Sì)
+  — "South Sea Guanyin Temple"
+  — the institutional name, identifying the temple
+    through Guanyin's mythological homeland:
+    Potalaka (普陀山), the island paradise in the
+    South Seas that is her Pure Land
 
-ENSEMBLE₁ → [(Attendant_PR) – serves → (Thousand-Armed Guan Yin) ← serves – (Attendant_PL)]
-Tentative attendant identification: Shancai Tongzi (善財童子) [PR] and Longnü (龍女) [PL], consistent with the Nanhai/Putuo iconographic tradition. Needs on-site confirmation.
+南海飛來 (Nánhǎi Fēi Lái)
+  — "Flew here from the South Sea"
+  — a founding narrative inscription asserting that the
+    temple's principal deity image miraculously arrived
+    from Potalaka itself — a common legitimating claim
+    in Chinese temple founding traditions
+The double inscription establishes this as a temple whose entire identity is anchored in a specific tradition of Guanyin veneration — the South Sea / Potalaka lineage — and whose founding authority rests on a narrative of miraculous divine origination rather than human founding alone.
+This is a small, single-hall community temple, structurally distinct from the large monastic compounds analyzed previously. The entire iconographic programme is concentrated within one hall, with the threshold as the only spatial boundary between outside and inside.
+Zone 1 — Threshold
+Image 1
+ICON₁ — Budai (布袋, Cloth-Sack Maitreya)
+(Exterior threshold, on granite pedestal)
+ICON₁ → ⟨ threshold, singular, front-facing, devotional ⟩
+The Budai figure is bronze, seated in the standard smiling posture on a lotus base mounted on a circular granite pedestal. He wears a fresh marigold garland — a South Asian / Theravada devotional decorative convention increasingly common in Singapore Chinese folk temples, signalling active and frequent tending by devotees. A coin slot is visible at the base of the pedestal, integrating donation function into the threshold figure's structure.
+ENSEMBLE (threshold scope):
+ENSEMBLE → [BUDAI – admits → TEMPLE_INTERIOR]
+  [scope: shrine]
 
-Background register [altar]:
+ENSEMBLE → [BUDAI – brackets → TEMPLE_ENTRANCE]
+  [scope: shrine]
+The Budai here performs a dual function consistent with the pattern documented across this corpus. As in the Hall of Celestial Kings at Lian Shan Shuang Lin and the Mahavira Hall at Kong Meng San, the welcoming Maitreya/Budai figure is positioned at the threshold to receive and admit the devotee before they encounter the principal devotional figure inside.
+One thing worth noting: The marigold garland marks something specific. At the large monasteries in this corpus, threshold figures are maintained institutionally — dusted, incensed, offered to on a scheduled basis. At a small community temple like this one, the fresh garland signals that individual community members are actively attending to the deity's comfort in a more personal, immediate way. The threshold figure is devotionally alive, not merely architectural.
+Zone 2 — Principal Altar
+Image 2
+ICONs
+ICON₁ — Thousand-Armed Avalokiteśvara (千手觀音, Qiānshǒu Guānyīn)
+(Central, principal deity)
+ICON₁ → ⟨ central and recessed, dominant, front-facing,
+           soteriological and devotional and intercessory ⟩
+The principal deity is a seated Thousand-Armed Avalokiteśvara in gilt/gold finish, positioned centrally within an ornate dark-wood architectural niche with carved gold ornamentation. The most iconographically distinctive feature is the solar/radiate mandorla — a halo of multiple rays emanating from behind the figure like a sun disc — rather than the standard leaf-shaped or oval mandorla typical in Chinese Mahāyāna Buddhist iconography.
+This solar mandorla is analytically significant and warrants a provisional note:
+Note on the solar mandorla:
+  In standard Chinese Buddhist iconography, Avalokiteśvara
+  typically appears with either an oval mandorla, a leaf-shaped
+  mandorla, or no mandorla. A radiate solar halo is more
+  commonly associated with:
+    - Amoghapaśa Avalokiteśvara (不空羂索觀音) forms
+    - Mahāvairocana Buddha (大日如來) in esoteric contexts
+    - Local syncretic adaptations incorporating solar deity
+      traditions
 
-ENSEMBLE₂ → [(Buddha cohort) – coordinates[vertical, grouped, permanent] – (Thousand-Armed Guan Yin)]
-If the cohort is clearly above and recessed behind the central deity, the relation tightens to surmounts. If they enclose her niche on three sides, the relation is frames. Resolution-limited; flag for verification.
+  Whether this reflects an esoteric Tantric iconographic
+  lineage, a local Singapore Chinese folk synthesis, or
+  an eclectic aesthetic choice requires further fieldwork
+  and consultation with temple management.
+  Flagged as provisional pending confirmation.
+ICON₂ — Left Flanking Attendant
+(Left of principal deity, slightly forward and below)
+ICON₂ → ⟨ paired-lateral, subordinate, front-facing, intercessory ⟩
+A smaller gilt figure, seated, to Avalokiteśvara's left (viewer's right). Provisional identification: possibly Sudhana (善財童子, "Good Wealth Boy"), one of Guanyin's two canonical attendants, though the image resolution does not permit definitive iconographic identification without fieldwork confirmation.
+ICON₃ — Right Flanking Attendant
+(Right of principal deity, slightly forward and below)
+ICON₃ → ⟨ paired-lateral, subordinate, front-facing, intercessory ⟩
+A smaller gilt figure, seated, to Avalokiteśvara's right (viewer's left). Provisional identification: possibly Longnü (龍女, "Dragon Girl"), the second canonical attendant of Guanyin. The pairing of Sudhana and Longnü as Guanyin's attendants is the canonical configuration in Chinese Mahāyāna Buddhist iconography.
+ICON₄, ICON₅ — Lateral figures (partially visible)
+Two larger dark-coloured figures are partially visible at the left and right edges of the altar space. Their identities cannot be determined from the available photographs. Flagged as requiring fieldwork confirmation.
+ENSEMBLE statements
+Principal altar:
+ENSEMBLE →
+  [(ICON₂ Left Attendant) – flanks → (Thousand-Armed Guanyin)
+   ← flanks – (ICON₃ Right Attendant)]
+  [scope: altar]
 
-Protector register [altar]:
+ENSEMBLE →
+  [ICON₂  mirrors  ICON₃]
+  [scope: altar]
 
-ENSEMBLE₃ → [(Protector_PR) – guards → (Thousand-Armed Guan Yin) ← guards – (Protector_PL)]
+ENSEMBLE →
+  [ARCHITECTURAL_NICHE  frames[architectural]  THOUSAND-ARMED_GUANYIN]
+  [scope: altar]
 
-Composite altar-level relation:
+ENSEMBLE →
+  [SOLAR_MANDORLA  surmounts  THOUSAND-ARMED_GUANYIN]
+  [scope: altar]
+Functional statements:
+ENSEMBLE →
+  [THOUSAND-ARMED_GUANYIN  centers  ALTAR]
+    [scope: shrine]
 
-ENSEMBLE → [ENSEMBLE₂ – surmounts – [ENSEMBLE₁ – flanks → (Thousand-Armed Guan Yin)] – underlies – ENSEMBLE₃]
-(Reading vertical stack: background cohort above → primary triad of central deity with attendants → protector tier below.)
+  [THOUSAND-ARMED_GUANYIN  manifests  NANHAI_POTALAKA_TRADITION]
+    [scope: shrine]
+  — the deity's iconographic identity is confirmed by the
+    temple name and founding narrative inscription
 
-Threshold/access register [shrine]:
+  [THOUSAND-ARMED_FORM  manifests  SAHASRABHUJA_AVALOKITEŚVARA]
+    [scope: altar]
+  — the thousand-armed form iconographically represents
+    the bodhisattva's capacity to reach all sentient beings
+    simultaneously with compassion and aid
+Threshold to interior:
+ENSEMBLE →
+  [BUDAI  coordinates[depth, grouped, permanent]
+          THOUSAND-ARMED_GUANYIN]
+    [scope: compound]
+  — Budai at the threshold and Guanyin in the interior
+    form a depth-axis pair: welcoming arrival (Budai)
+    and principal devotional engagement (Guanyin)
+Naming conventions
+The temple demonstrates two of the three naming conventions documented in this corpus:
+南海觀音寺  — DEITY-NAMED
+  The temple is named after its principal deity (Guanyin)
+  qualified by her mythological homeland (South Sea).
+  This follows the deity-named convention (e.g., 觀音殿,
+  大雄宝殿) established across the corpus.
 
-ENSEMBLE₄ → [(Five-coloured pillar_PR) – brackets – (Five-coloured pillar_PL)] – admits → (altar)
-Conditional on confirming that the pillars are five-coloured ritual pillars rather than decorative columns.
+南海飛來  — DOCTRINALLY/NARRATIVELY NAMED
+  The secondary inscription names the founding theological
+  claim — miraculous arrival from Potalaka — encoding the
+  temple's authority in the narrative of divine origination.
+  This is a variant of the doctrinally named convention
+  documented at 光明殿 (Universal Brightness) and
+  無相殿 (No Form).
+Comparison with Da Feng Gu Si (previous analysis)
+Both temples are small single-hall community temples in Singapore, analyzed in this corpus. Comparing them is instructive:
+DA FENG GU SI (南洋同奉善堂 / 大峰古寺)
+  Principal cult: Master Dafeng (syncretic Buddhist patriarch)
+  Flanking deities: Huatuo (Daoist physician) and
+                    Hu Tian Yuanshuai (martial protector)
+  Triad logic: functional welfare triad encoding the Shan Tang
+               charitable programme (charity, medicine, protection)
+  Buddhist frame: Theravada Buddha above, mantras on lanterns
+  Syncretic mode: iconographic integration — Buddhist, Daoist,
+                  and folk deities on the same altar, with
+                  Buddhist frame surmounting syncretic content
 
-Offering register:
-
-The 福德 plaque, if confirmed, is not strictly an ICON but indexes Tudi Gong / Fude Zhengshen as a referenced — not iconographically present — administrative deity. RFIG-wise, this is closer to a complex-scope relation (toponymic/textual reference to a deity housed elsewhere) than an altar-scope relation.
-
-ICON descriptions
-
-Thousand-Armed Guan Yin → ⟨ central and elevated, dominant, front-facing, devotional ⟩
-
-Secondary functions: intercessory (mediator to Amitābha in Pure Land soteriology); soteriological in the eschatological register. Devotional is primary per the temple's communal naming and ritual focus.
-
-
-Shancai Tongzi (tentative) → ⟨ paired-lateral, subordinate, inward-facing, devotional ⟩
-Longnü (tentative) → ⟨ paired-lateral, subordinate, inward-facing, devotional ⟩
-Background Buddha cohort → ⟨ recessed and elevated, subordinate (in scale, relative to central deity) but equal (to each other), front-facing, cosmological or soteriological ⟩
-
-Function determination depends on identification — Three Buddhas of Three Times would read cosmological; a generic Buddha cohort reads soteriological.
-
-
-Lower-tier protectors → ⟨ peripheral, subordinate, front-facing, protective ⟩ (or apotropaic, depending on identification)
-Five-coloured pillars (non-ICON ritual elements) → threshold function; apotropaic if confirmed as ritual rather than decorative.
-
-Observation and analysis
-Visually and functionally convergent at the centre: the Thousand-Armed Guan Yin is both the largest, most central, most elaborately framed figure and the deity for whom the temple is named. Toponym (南海觀音) matches central ICON without slippage — a clean case rather than a Tangkak-style anomaly. The interpretation rule "visual prominence does not determine status" is not in play here for the principal deity, because the community's naming of the temple independently confirms her status.
-The rule does come into play, however, in the relation between Guan Yin and the background Buddha cohort. Visually, Guan Yin dominates; doctrinally, Buddhas surmount Bodhisattvas in the orthodox Mahayana cosmological hierarchy. Whether the background register marks this hierarchical surmounting iconographically (via clear elevation/recession) or leaves it implicit (via mere co-presence) is exactly the kind of question your grammar is built to ask, and it needs better-resolution photographs to answer.
-The Thousand-Armed form itself is iconographically marked — it is a more esoteric/tantric form than the standard Guan Yin, associated with the Great Compassion Dharani (大悲咒) practice. Its selection over a simpler Guan Yin form raises the doctrinal register of the composition above what would be expected for a smaller community temple. If the five-coloured pillars and the 福德 reference are confirmed, you have a composition that mixes doctrinal-Buddhist centre with popular-religious peripheral signalling — a registral-syncretism case rather than an architectural-syncretism case like Shuang Lin.
-Field-verification items
-
-Confirm attendant identifications (Shancai / Longnü vs. other figures).
-Resolve the background register relation: surmounts, frames, or coordinates[vertical].
-Identify lower-tier protector pair specifically.
-Confirm the 福德 plaque reading and what it refers to (deity reference, donor inscription, or merit-field formula).
-Confirm the five-coloured pillars and document their orientation and material composition.
-Establish community testimony on the temple's primary ritual function (Pure Land chanting? Maritime/protective petition? Mixed?) — this fixes which secondary function of Guan Yin is locally salient.
+NANHAI GUANYIN TEMPLE (南海觀音寺)
+  Principal cult: Thousand-Armed Avalokiteśvara
+                  (canonical Chinese Mahāyāna Buddhist)
+  Flanking deities: probable Sudhana and Longnü
+                    (canonical Guanyin attendants)
+  Triad logic: devotional triad — principal bodhisattva
+               with paired canonical attendants
+  Syncretic mode: primarily Buddhist, with possible
+                  folk synthesis in the solar mandorla
+                  (provisional, requiring confirmation)
+Da Feng Gu Si encodes a functionally syncretic institutional theology in which Buddhist, Daoist, and folk deities are integrated within a Buddhist frame. Nanhai Guanyin Temple, by contrast, presents a more internally consistent Mahāyāna Buddhist iconographic programme, with the solar mandorla as the primary marker of possible folk or esoteric influence.
+Methodological notes
+On the solar mandorla: This analysis flags it as provisionally unresolved. Following RFIG's limitation notice that "it is recommended to use RFIG as a supplementary tool, in addition to academic literature and religious texts," the correct next step is consultation with the temple's management about the specific iconographic tradition the principal image represents, supplemented by checking relevant scholarship on Thousand-Armed Guanyin variants in Southeast Asian Chinese Buddhism.
+On the lateral figures (ICON₄ and ICON₅): The two larger dark-coloured figures partially visible at the edges of the altar cannot be identified from the available photographs. A proper in-person visit would document these and potentially significantly change the analysis of the altar's full iconographic programme. The RFIG guidelines' note on position is directly relevant: "Many Chinese folk temples may keep many deity figures in their shrines in all sorts of positions that may or may not reflect the original altar configuration. Therefore, use RFIG as a supplementary tool and make sure to understand more about the background of the shrines and temples from the management themselves."
+On scale: This is the first small single-hall urban community temple in the corpus to receive a full RFIG analysis with both threshold and principal altar documented. Together with the Da Feng Gu Si analysis, it begins to establish a comparative small-temple baseline that contrasts instructively with the large monastery analyses. RFIG operates consistently across both scales with the same relational vocabulary.
