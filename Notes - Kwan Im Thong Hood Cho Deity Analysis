@@ -1,1 +1,169 @@
+Institutional identity
+Full name (Chinese):   觀音堂 (Guānyīn Táng)
+Full name (Hokkien):   Kwan Im Thong Hood Cho
 
+Components:
+  觀音  (Kwan Im / Guānyīn)  — Guanyin, Goddess of Mercy
+  堂    (Thong / Táng)        — Hall (dedicated worship hall;
+                                distinct from 寺 monastery
+                                or 廟 folk temple)
+  福    (Hood / Fú)           — Blessings / Fortune
+  祖    (Cho / Zǔ)            — Ancestral Patriarchs / Founders
+
+Full translation:
+  "Hall of Guanyin: Blessings of the Founding Patriarchs"
+
+Naming convention: DEITY-NAMED, with commemorative suffix
+  — The name encodes both the principal cult (Guanyin)
+    and the founding community's ancestral legacy (Hood Cho)
+    within a single institutional name. This is distinct from
+    purely deity-named halls (三聖殿, 觀音殿) in that the
+    founding community's commemorative identity is grammatically
+    present in the temple's own name.
+Founding and institutional history: The temple was founded in 1884 by a traditional Chinese medicine practitioner, with construction made possible when a local business donated a plot of land and funds, with the goal of establishing a temple "to serve the benevolent men and women." What is visible today is the result of a $5 million reconstruction in 1982, where the temple almost doubled in size, and was subsequently designated by the National Heritage Board as a historic site. SawasdeeSawasdee
+Institutional category: The 堂 (táng) designation marks this as a dedicated devotional hall rather than a full monastic complex (寺 sì) or folk temple (廟 miào). Historically, 堂 institutions in Chinese diaspora communities often serve as both devotional and social spaces — a distinction that matters for understanding the community function of this institution.
+Zone 1 — Exterior and approach
+Image 1
+The facade is the most architecturally elaborate documented in this corpus at street-level. Two tiers of traditional Chinese curved rooflines surmount the entrance, with ornate dragon and phoenix ridge decorations, lotus tile panels flanking the main plaque, and painted 3-dimensional carvings across the facade. The main plaque 觀音堂 sits above the central entrance between ceramic lotus panels.
+RFIG note on threshold: This temple does not deploy a canonical threshold deity figure (Maitreya/Budai, Hall of Celestial Kings, door guardian pair) at the entrance in the manner documented at LSSL or Kong Meng San. The entrance is architecturally dramatic but iconographically open — the devotee moves directly from the street into the interior without passing through a defined iconographic threshold zone. This is a different approach strategy: the facade architecture performs the threshold function rather than a deity figure.
+Zone 2 — Courtyard and Tian Gong
+There is a spacious courtyard for visitors to pray to Tian Gong.
+Tian Gong (天公, Heavenly Father / Jade Emperor) is institutionally complex in this context:
+Identity:
+  Tian Gong is primarily a TAOIST deity — the supreme
+  ruler of the divine bureaucratic hierarchy in Chinese
+  Taoist cosmology (玉皇大帝, the Jade Emperor).
+
+  His description as "Buddhism's Jade Emperor" in the
+  source reflects popular syncretic identification rather
+  than strict canonical Buddhist classification.
+
+Iconographic register: Taoist / folk-religious
+Function: cosmological, administrative
+Position: outdoor courtyard (not integrated into the main
+          interior devotional programme)
+ENSEMBLE (compound scope):
+ENSEMBLE →
+  [TIAN_GONG  coordinates[lateral, incidental, permanent]
+              GUANYIN_INTERIOR]
+    [scope: compound]
+  — Tian Gong and Guanyin share the compound but occupy
+    spatially distinct zones (outdoor courtyard vs.
+    interior hall), and their co-presence is syncretic
+    rather than iconographically programmatic
+
+  [TIAN_GONG  manifests  TAOIST_COSMOLOGICAL_ORDER]
+    [scope: compound]
+Zone 3 — Principal interior altar
+Image 3
+ICONs
+ICON₁ — Standing Thousand-Armed Avalokiteśvara (千手觀音)
+ICON₁ → ⟨ central, dominant, front-facing,
+           devotional and soteriological and intercessory ⟩
+The principal deity is a standing multi-armed Guanyin in gold, on an elevated pedestal, with multiple arms fanned out and a complex mandorla behind. This is the standing Thousand-Armed form rather than the seated form documented at Nanhai Guanyin Temple — iconographically significant because the standing form is associated with active compassionate response: the bodhisattva is poised to move toward suffering beings rather than enthroned in meditation.
+The altar structure surrounding her is an elaborate multi-tiered dark-wood canopy with gold carvings and Chinese pagoda architectural elements embedded within the altar itself — the altar canopy is architecturally a miniature temple facade within the hall.
+ICON₂ — Left flanking attendant
+ICON₂ → ⟨ paired-lateral, subordinate, front-facing, intercessory ⟩
+Standing figure to Guanyin's left (viewer's right). From the image resolution and the canonical iconographic conventions for Guanyin halls, provisional identification: possibly Sudhana (善財童子). However, the figures' posture and scale suggest they may be male guardian figures rather than canonical attendants. Flagged as provisional pending in-person fieldwork confirmation.
+ICON₃ — Right flanking attendant
+ICON₃ → ⟨ paired-lateral, subordinate, front-facing, intercessory ⟩
+Standing figure to Guanyin's right (viewer's left). Mirrors ICON₂.
+Background tier deities:
+The article documents additional deity presences within the hall:
+SAKYAMUNI BUDDHA (釋迦牟尼)
+  Function: pedagogical (wisdom and enlightenment)
+  Position: likely in rear or upper tier
+  ICON → ⟨ recessed or elevated, subordinate to Guanyin
+            at altar scope, front-facing, pedagogical ⟩
+
+BODHIDHARMA (菩提達摩)
+  Function: pedagogical (Chan Buddhism, Zen, clarity)
+  Position: lateral subsidiary altar or rear
+  ICON → ⟨ peripheral or recessed, subordinate,
+            front-facing, pedagogical ⟩
+  Note: Bodhidharma's presence signals a CHAN BUDDHIST
+        institutional affiliation — he is the founder of
+        Chan Buddhism in China and its patron patriarch.
+
+HUA TUO (華陀)
+  Function: protective and intercessory (medicine, health)
+  Position: lateral subsidiary shrine
+  ICON → ⟨ peripheral, subordinate, front-facing,
+            protective and intercessory ⟩
+  Note: Hua Tuo also appears at Da Feng Gu Si in this corpus,
+        where he flanks the principal altar as a healing deity.
+        At Da Feng Gu Si he occupies a primary lateral position;
+        here he appears to occupy a subsidiary position relative
+        to the Guanyin-centered principal programme.
+ENSEMBLE statements — Principal altar
+ENSEMBLE →
+
+  -- I. Principal altar configuration
+  [(ICON₂ Left Attendant) – flanks → (STANDING GUANYIN)
+   ← flanks – (ICON₃ Right Attendant)]
+    [scope: altar]
+
+  [ICON₂  mirrors  ICON₃]
+    [scope: altar]
+
+  [ALTAR_CANOPY  frames[architectural]  STANDING_GUANYIN]
+    [scope: altar]
+
+  [STANDING_GUANYIN  centers  ALTAR]
+    [scope: shrine]
+
+  -- II. Functional statements
+  [STANDING_GUANYIN  manifests  COMPASSIONATE_RESPONSE_POSTURE]
+    [scope: altar]
+  — the standing form encodes active compassionate engagement
+    as distinct from the seated enthroned form which encodes
+    stable compassionate presence
+
+  [STANDING_GUANYIN  intercedes  WORSHIPPING_COMMUNITY → HIGHER_REALMS]
+    [scope: shrine]
+
+  -- III. Secondary deity programme
+  [SAKYAMUNI_BUDDHA  coordinates[dispersed, grouped, permanent]
+                     STANDING_GUANYIN]
+    [scope: shrine]
+  [BODHIDHARMA  coordinates[dispersed, grouped, permanent]
+                STANDING_GUANYIN]
+    [scope: shrine]
+  [HUA_TUO  coordinates[dispersed, grouped, permanent]
+            STANDING_GUANYIN]
+    [scope: shrine]
+
+  -- IV. Compound level
+  [TIAN_GONG  coordinates[depth, incidental, permanent]
+              STANDING_GUANYIN]
+    [scope: compound]
+  — Taoist courtyard deity and Buddhist principal deity
+    share compound scope in a spatial-integration syncretic mode
+
+  [STANDING_GUANYIN  centers  COMPOUND]
+    [scope: compound]
+  — Guanyin is the named and functional centre of the
+    entire temple site; Tian Gong and other deities are
+    compound-scope co-presences
+
+  -- V. Complex scope — multi-religious network
+  [SRI_KRISHNAN_KWAN_IM_STATUE  substitutes  STANDING_GUANYIN]
+    [scope: complex]
+  — See below
+Complex-scope finding: the cross-worship network
+This is the corpus's most significant complex-scope finding. In recognition of the high volume of non-Hindu visitors who come by from Kwan Im Thong Hood Cho Temple, the Sri Krishnan Temple placed a Kwan Im statue within their compounds and created a designated area for Chinese devotees to burn joss sticks. Sawasdee
+This is a documented instance of the substitutes relation operating at complex scope and across religious traditions:
+[SRI_KRISHNAN_KWAN_IM_STATUE  substitutes  KWAN_IM_THONG_STANDING_GUANYIN]
+  [scope: complex]
+  — the Sri Krishnan Hindu Temple has installed a Guanyin
+    statue as a functional substitute for the Buddhist
+    temple's principal deity, allowing Chinese devotees
+    to continue their Guanyin devotion across the boundary
+    of a Hindu temple compound
+
+INSTITUTIONAL CONSEQUENCE:
+  The two temples together constitute a functioning
+  CROSS-RELIGIOUS COMPLEX in which the principal deity
+  of a Chinese Buddhist temple has a designated substitute
+  at an adjacent Hindu temple, and the two temples share
+  a community of devotees who move between them.
