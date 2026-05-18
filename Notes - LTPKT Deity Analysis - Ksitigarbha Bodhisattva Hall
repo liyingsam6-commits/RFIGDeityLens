@@ -138,5 +138,249 @@ ENSEMBLE →
 Right bay — 大二爷伯 (Tua Di Ya Pek)
 Image 4
 Plaque: 大二爷伯 (Da Er Ye Bo) — "Tua Di Ya Pek"
-This is the most iconographically distinctive altar in these images and one of the most significant findings in the corpus to date.
-The Underworld Court System in Chinese folk-Buddhism:
+Plaque: 大二爷伯 (Dà Èr Yé Bó)Who are 大二爷伯大二爷伯 refers to the paired underworld escort deities widely venerated in Singapore and Southeast Asian Hokkien-Teochew folk religious tradition:
+大爷 (Dà Yé) — "Big Uncle" / Seventh Lord
+  Canonical name:  謝必安 (Xiè Bì'ān)
+  Also known as:   白無常 (Bái Wúcháng)
+                   White Impermanence
+  Appearance:      Very tall, pale/white face,
+                   long tongue protruding,
+                   white robes, tall black hat
+                   (sometimes inscribed 一見大吉)
+
+二爷 (Èr Yé) — "Second Uncle" / Eighth Lord
+  Canonical name:  范無救 (Fàn Wú Jiù)
+  Also known as:   黑無常 (Hēi Wúcháng)
+                   Black Impermanence
+  Appearance:      Shorter, dark/black face,
+                   black robes, black hat
+  
+Together:          七爷八爷 (Seventh and Eighth Lords)
+                   黑白無常 (Black and White Impermanence)
+                   大二爷伯 (Big Uncle and Second Uncle)
+Their primary function is as escorts of the dead — the two officials who arrive at the moment of death to conduct the soul from the living world to the underworld realm. Unlike the Ten Kings of Hell who judge souls, or Dizang who intercedes for them, the Big and Second Uncles are the transitional figures who physically accompany the soul across the boundary between life and death.
+They are also closely associated with the Hungry Ghost Festival (中元節), during which they are said to be on active duty supervising the release of souls from the underworld. Their presence in this hall is not coincidental.
+Ceiling — Image 5
+The caisson ceiling (藻井, Zǎo Jǐng) visible in Image 5 is the most architecturally significant element in the Buddhist section.ARCHITECTURAL DESCRIPTION:
+  Multi-layered concentric circular caisson ceiling:
+  - Outermost ring: elaborate red-and-gold carved decoration
+    with cloud/dragon/phoenix relief motifs
+  - Second ring: dark lacquered timber with LED lighting
+  - Third ring: carved decorative band
+  - Fourth ring: geometric pattern with lotus/auspicious motifs
+  - Innermost circle: ornate center medallion with carved figure
+    or auspicious creature at the very apex
+  - Color palette: red lacquer + dark wood + gold accents
+  - Modern LED strip lighting integrated into the concentric rings
+
+  The caisson ceiling is one of the most elaborate in
+  this corpus and rivals the architectural sophistication
+  of the monastery halls analyzed at KMSPKS and LSSL.
+Iconographic significance of the caisson ceiling:
+The caisson ceiling in Chinese architecture is derived from the 藻井 tradition — literally "algae well" — a term referring to the circular watery motifs used to protect wooden structures against fire through sympathetic magic. In temple architecture, the caisson ceiling serves several functions:
+1. Spatial axis marker
+   The ceiling's circular center designates the point
+   below as the most sacred location in the hall.
+   Its positioning above the Dizang altar designates
+   Dizang's position as the spatial-cosmological axis
+   of the entire section.
+
+2. Vertical cosmological connector
+   The caisson ceiling creates an architectural link
+   between the terrestrial plane (altar level) and
+   the celestial realm above. Given that Dizang's
+   vow explicitly spans the vertical axis of Chinese
+   cosmology — from the lowest hells to enlightenment
+   — the ceiling architecturally enacts this vertical
+   soteriological span.
+
+3. Cosmological statement
+   The concentric circles encode the Buddhist cosmological
+   model: the innermost center (Dizang / Buddha-realm) is
+   surrounded by progressively larger circles representing
+   the rings of the cosmos outward from the Buddhist axis.
+
+ENSEMBLE →
+  [CAISSON_CEILING  surmounts  DIZANG_ALTAR]
+    [scope: shrine]
+  -- the most architecturally elaborate element in the
+     hall designates Dizang's position as the hall's
+     cosmological center
+
+  [CAISSON_CEILING  manifests  HEAVENLY_REALM_CONNECTION]
+    [scope: shrine]
+
+  [CAISSON_CEILING  coordinates[vertical, grouped, permanent]
+                    26TH_HALL_ALTAR]
+    [scope: shrine]
+  -- the ceiling's axis encompasses both Dizang
+     and the underworld courts below, encoding the
+     full vertical cosmological programme
+Three Bay Programme:
+ICON₁ — 大爷 / 謝必安 (White Impermanence)
+ICON₁ → ⟨ central or lateral, dominant or intermediate,
+           front-facing, apotropaic and psychopomp ⟩
+
+Iconographic features consistent with Image 4:
+  - Pale/white or lighter complexion
+  - Tall figure
+  - Robes (white traditionally)
+  - Distinctive features including possible
+    protruding tongue (canonical attribute)
+
+Function:   psychopomp (conductor of souls to the underworld)
+            apotropaic (escorts evil influences away from the
+            dying and the dead)
+ICON₂ — 二爷 / 范無救 (Black Impermanence)
+ICON₂ → ⟨ lateral, intermediate, front-facing,
+           apotropaic and psychopomp ⟩
+
+Iconographic features consistent with Image 4:
+  - Dark/black complexion
+  - Armored or black-robed figure
+  - Fierce expression
+
+Function:   psychopomp, apotropaic
+ICON₃+ — Additional smaller figures on lower shelves
+Additional figures are visible on lower shelves.
+These may be attendant figures or subsidiary
+underworld functionaries in 大二爷伯's entourage.
+ENSEMBLE — right bay
+ENSEMBLE →
+  [大爷  mirrors  二爷]
+    [scope: altar]
+  -- black and white impermanence as paired bilateral
+     iconographic counterparts
+
+  [大二爷伯_PAIR  centers  RIGHT_BAY]
+    [scope: altar]
+
+  [大二爷伯  manifests  DEATH_ESCORT_FUNCTION]
+    [scope: shrine]
+  -- these are the figures who arrive at the moment
+     of death to conduct the soul to the underworld
+
+  [大二爷伯  admits  SOULS → UNDERWORLD_REALM]
+    [scope: shrine]
+  -- the admits relation — they enable the crossing
+     of the threshold between life and death
+LEFT BAY          CENTRE BAY         RIGHT BAY
+阴财神            地藏王菩薩          大二爷伯
+Yin Wealth God    Dizang              Big & Second Uncles
+
+MATERIAL          SPIRITUAL           TRANSITIONAL
+DIMENSION         DIMENSION           DIMENSION
+
+Ensures the dead  Intercedes to       Conducts the soul
+have material     liberate souls      safely from the
+provisions in     from underworld     living world to
+the underworld    suffering           the underworld
+                  → toward            at the moment
+                    liberation        of death
+Each bay addresses a different dimension of caring for the dead:
+The soul DEPARTS safely       → 大二爷伯 (escort)
+The soul ARRIVES provisioned  → 阴财神 (material needs)
+The soul is LIBERATED         → Dizang (soteriological)
+Or reading the sequence differently — from the perspective of the living mourner performing ritual:
+I BURN OFFERINGS for my ancestor
+  → 阴财神 receives them and delivers material provisions
+
+I PRAY TO DIZANG for my ancestor
+  → Dizang intercedes to ease their suffering
+
+I KNOW that at death
+  → 大二爷伯 will escort the soul safely to the other side
+The three bays answer the three questions that any living person concerned for their deceased relatives might ask: Did they get there safely? Are they suffering? Do they have what they need? Each bay addresses one question with a dedicated divine official.
+The anchors relation now operates across all three bays with greater precision:
+[DIZANG  anchors  阴财神_ALTAR]
+  [scope: shrine]
+  -- Dizang's soteriological authority gives the
+     material provisions of 阴财神 their ultimate
+     purpose: material welfare in the underworld
+     is meaningful because liberation is possible
+
+[DIZANG  anchors  大二爷伯_ALTAR]
+  [scope: shrine]
+  -- Dizang's presence gives the escort function
+     its ultimate destination: souls are not merely
+     delivered to punishment but to the possibility
+     of liberation
+
+[阴财神  coordinates[lateral, grouped, permanent]
+         大二爷伯]
+  [scope: shrine]
+  -- material and transitional dimensions are
+     equally weighted, flanking the soteriological
+     center
+Cosmological note: the Yin/Yang division of divine labour
+阴财神's presence introduces a grammatically important principle. Chinese cosmology systematically mirrors its divine bureaucracy across the Yin/Yang divide — for virtually every major divine function in the Yang realm, there is a corresponding official in the Yin realm:
+YANG REALM          YIN REALM
+阳财神              阴财神
+(Wealth for living) (Wealth for dead)
+
+城隍 (City God)     十殿閻王 (Ten Kings)
+(Living world admin) (Underworld admin)
+
+门神 (Door Gods)     大二爷伯
+(Living threshold)   (Death threshold)
+RFIG can document this Yin/Yang official correspondence through the substitutes relation qualified by cosmological register:
+[阴财神  substitutes  阳财神]
+  -- at Yin cosmological register
+  [scope: shrine]
+Final three-bay ENSEMBLE summary
+COMPLETE ENSEMBLE — Buddhist section, Loyang Tua Pek Kong →
+
+  -- Central axis and theological anchor
+  [DIZANG  centers  THREE_BAY_ALTAR]
+    [scope: shrine]
+  [DIZANG  anchors  阴财神_BAY]
+    [scope: shrine]
+  [DIZANG  anchors  大二爷伯_BAY]
+    [scope: shrine]
+
+  -- Bilateral flanking
+  [阴财神  mirrors  大二爷伯]
+    [scope: shrine]
+
+  -- Sequential eschatological narrative
+  [大二爷伯  escorts  SOULS → UNDERWORLD]
+    [scope: complex]
+  [阴财神  transmits  LIVING_OFFERINGS → DECEASED]
+    [scope: complex]
+  [DIZANG  intercedes  DECEASED → LIBERATION]
+    [scope: complex]
+
+  -- Cosmological register
+  [阴财神  substitutes  阳财神]
+    [register: yin, scope: shrine]
+
+  -- Caisson ceiling designating cosmological axis
+  [CAISSON_CEILING  surmounts  DIZANG]
+    [scope: shrine]
+COMPOUND SCOPE — updated ENSEMBLE
+
+  TAOIST SECTION (main hall)
+    Tua Pek Kong (founding relic, principal deity)
+    Five Military Generals (spatial-directional protection)
+    Bodhisattva above Tai Sui (temporal cosmic administration)
+    Door God pair at threshold (apotropaic entry)
+
+  BUDDHIST SECTION (this hall)
+    Dizang Bodhisattva (soteriological center)
+    26th Hall Underworld Courts (judicial processing)
+    Unidentified wealth/offering deity (ritual economy)
+    Caisson ceiling (cosmological-architectural axis marker)
+
+  CROSS-SECTION THEOLOGICAL RELATIONSHIP:
+    [TAOIST_SECTION  coordinates[lateral, grouped, permanent]
+                     BUDDHIST_SECTION]
+      [scope: compound]
+
+    [TUA_PEK_KONG  manifests  PRESENT_LIFE_PROSPERITY]
+      [scope: compound]
+    [DIZANG  manifests  AFTERLIFE_LIBERATION]
+      [scope: compound]
+
+    Together they encode the complete lifecycle soteriology:
+    TAOIST: protection and prosperity in this life
+    BUDDHIST: liberation and salvation in the next
