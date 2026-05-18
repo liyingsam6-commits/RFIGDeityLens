@@ -1,0 +1,500 @@
+Institutional identity
+Full name:  沙岡萬山福德祠
+            Shā Gāng Wàn Shān Fú Dé Cí
+            Sar Kong Mun San Fook Tuck Chee (Cantonese)
+
+Components:
+  沙岡    (Sar Kong)  — locality name; the original
+                        Cantonese fishing/kiln village
+                        around Kallang Basin
+  萬山    (Mun San)   — former name for Kallang Basin
+                        ("Ten Thousand Mountains")
+  福德    (Fook Tuck) — canonical epithet of Tu Di Gong
+                        (Earth God): 福德正神
+                        "Right Deity of Fortune and Virtue"
+  祠      (Chee / Cí) — community shrine (distinct from
+                        寺 monastery, 廟 folk temple,
+                        宮 palace-temple)
+
+Naming convention:
+  LOCALITY + DEITY-ATTRIBUTED
+  — Both the place (Sar Kong / Mun San) and the deity's
+    canonical virtue-epithet (福德) are embedded in
+    the institutional name. This distinguishes Mun San
+    Fook Tuck Chee from pure deity-named temples
+    (e.g. 觀音堂) or purely locality-named ones.
+Institutional history: The temple was established around the 1860s, making it one of the oldest Cantonese temples in Singapore. A stone tablet within the temple dates its relocation to 124 Sims Drive in 1901, and it has been a member of the Taoist Association of Singapore since 2007. In 2024, the Urban Redevelopment Authority identified it for conservation under Draft Master Plan 2025. mytemplebuddy + 2
+Institutional category: CANTONESE COMMUNITY FOLK TEMPLE
+This is the first explicitly Cantonese folk temple in this corpus. All previously analyzed temples — Da Feng Gu Si (Teochew Shan Tang), Nanhai Guanyin Temple, Kwan Im Thong Hood Cho (Hokkien-founded), Loyang Tua Pek Kong (multi-tradition) — derive from other dialect-group traditions or from mixed institutional origins. Mun San Fook Tuck Chee is grounded in Cantonese community identity, which has direct iconographic consequences: the presence of 金花夫人 (Jin Hua Fu Ren, a specifically Cantonese deity) marks this identity at the shrine level in a way no other temple in the corpus documents.
+Architecture — Cantonese style
+Image 1
+The temple follows a traditional Cantonese architecture style, characterized by a three-bay layout with three rows of halls. Each bay is split into subsections which include an entrance hall, an antechamber and a courtyard, with a main hall. The design is simplistic, with triple gable walls on either side, and like other Cantonese architecture, the temple has little decorative ornaments compared to other heritage temples.
+CANTONESE VS. HOKKIEN-TEOCHEW ARCHITECTURAL CONTRAST
+
+This corpus has primarily documented temples in the
+Hokkien-Teochew architectural tradition, which is
+characterized by:
+  - Elaborate ornamental facades
+  - Intricate ridge carvings (dragons, phoenixes)
+  - Intense gilding and lacquerwork
+  - Dense iconographic surface coverage
+
+Mun San Fook Tuck Chee, by contrast:
+  - Plain exterior tiled walls
+  - Restrained ornamental vocabulary
+  - Simple gabled roof with minimal ridge decoration
+  - Modest single-story structure
+  - Open courtyard forecourt
+
+The architectural simplicity is not poverty of programme
+but Cantonese aesthetic convention. The temple's cultural
+depth is encoded in its community relationships, ritual
+heritage (fire dragon performance), and deity selection —
+not in surface ornamentation.
+Spatial layout (synthesizing images and user description):
+ENTRANCE ZONE (peripheral altars):
+  Left of entrance:  阴财神 (Yin Wealth God)
+  Peripheral:        当年太岁 / 元辰殿 (Tai Sui)
+
+COMPOUND INTERIOR:
+  Secondary altar:   龙神 / 万山福德 area
+
+FLOOR / RIGHT:
+  聚宝堂 tablet (ritual wealth space)
+
+MAIN HALL (three-bay):
+  LEFT BAY:    金花夫人 group — 神光普照 (left shrine)
+  CENTRE BAY:  Tu Di Gong (principal deity)
+  RIGHT BAY:   Guan Yin (right shrine)
+Zone 1 — Entrance peripheral altars
+A. 阴财神 (Yin Wealth God)
+Image 2
+Banner: 阴财神 (Yīn Cái Shén) — displayed prominently
+Side inscriptions:
+  Right: 神赐宝伯业典 (Shén Cì Bǎo Bó Yè Diǎn)
+  Left:  亿义扬万年 (Yì Yì Yáng Wàn Nián)
+Side plaque on right: 阴财神 / 正日还库 (Zhèng Rì Huán Kù)
+                      — "Return to the Treasury on the
+                         Proper Day"
+Footer inscription: 福田广种 (Fú Tián Guǎng Zhǒng)
+                    — "Sow widely in the field of merit"
+ICON₁ — 阴财神
+ICON₁ → ⟨ peripheral-left, singular, front-facing,
+           administrative and transmissive ⟩
+
+Features:
+  - Standing deity figure with elaborate headdress
+  - Decorated robes
+  - Holds implements (possibly register or ruyi)
+  - Purple-tinted UV lighting in the altar space
+    (the blue-purple light environment is notable:
+    purple/violet is often associated with the
+    spirit/Yin realm in Chinese folk practice)
+Note on 正日还库 (Return to the Treasury on the Proper Day):
+This inscription is functionally significant. The 阴财神 shrine at this temple has a specific ritual calendar: on the 正日 (proper day — typically a specific lunar calendar date annually), devotees perform a 还库 (huán kù, "Return to the Treasury") ritual, in which debts or credit balances from the Yin realm are settled. This is a distinct ritual practice in which devotees who have borrowed from the underworld treasury (through an earlier petition to 阴财神) formally repay the debt.
+This is more specific ritual practice than documented at Loyang Tua Pek Kong, where 阴财神 was simply analyzed functionally. The 还库 ritual makes the two-way transactional character of 阴财神's role explicit: devotees do not merely give offerings to 阴财神 (one-way transmittal); they also formally settle balances (two-way transaction).
+ENSEMBLE →
+  [阴财神  centers  ENTRANCE_LEFT_ALTAR]
+    [scope: altar]
+  [阴财神  transmits  LIVING_OFFERINGS → DECEASED]
+    [scope: complex]
+  [阴财神  manifests  YIN_REALM_FISCAL_ADMINISTRATION]
+    [scope: shrine]
+
+  [还库_RITUAL  activates  阴财神_ALTAR]
+    [scope: shrine, ritual-specific]
+  -- the altar's full function is activated on the
+     specific calendar day of the Return-to-Treasury ritual
+Cross-corpus observation — 阴财神 appearing in two temples:
+阴财神 is now documented at both Loyang Tua Pek Kong and Mun San Fook Tuck Chee. At Loyang she formed the material dimension of a three-bay eschatological programme alongside Dizang and 大二爷伯. At Mun San she appears as a peripheral entrance altar in a Tu Di Gong community temple with a specific annual 还库 ritual attached. The deity is consistent across both appearances; the institutional context differs substantially.
+当年太岁 / 元辰殿 (Current Year Tai Sui)
+Image 5
+Upper banner: 當年太歲 (Dāng Nián Tài Suì)
+              — "Tai Sui of the Current Year"
+Inner plaque: 元辰殿 (Yuán Chén Diàn)
+              — "Hall of Celestial Origin"
+Side inscriptions:
+  Left: 土無疆 (Tǔ Wú Jiāng) — "Earth Has No Boundary"
+  Right: 土無疆 — repeated
+  Additional: 生無量天尊 (Shēng Wú Liàng Tiān Zūn)
+              — "Boundless Heavenly Venerable Who Brings Life"
+Text below central figure: 斗姆 (Dǒu Mǔ)
+ICON₁ — Dou Mu Yuan Jun (斗母元君)
+ICON₁ → ⟨ central, elevated, front-facing,
+           cosmological and administrative ⟩
+
+Identity: 斗母元君 (Dǒu Mǔ Yuán Jūn)
+  — Mother of the Big Dipper / Lady of Celestial Origin
+  — The presiding deity of the Sixty Tai Sui system
+  — Multi-armed Taoist goddess governing the astral
+    administration of fate and fortune
+  — Her position ABOVE the current-year Tai Sui figure
+    encodes the hierarchy: Dou Mu governs the entire
+    system; the annual Tai Sui is one figure within it
+
+Features:
+  - Multiple arms (Taoist multi-armed form)
+  - Flanked by smaller attendant figures
+  - The text 斗姆 directly identifies her
+
+ICON₂ — Current Year Tai Sui (small figure in front)
+  → ⟨ threshold-forward, subordinate, front-facing,
+       cosmological and administrative ⟩
+  A smaller figure on a pedestal in front of the
+  main configuration, representing the Tai Sui general
+  presiding over the current year of the 60-year cycle.
+Why Dou Mu surmounts the Tai Sui:
+[DOU_MU  surmounts  CURRENT_YEAR_TAI_SUI]
+  [scope: altar]
+
+Theological claim:
+  The Tai Sui system consists of 60 generals, one per
+  year. The overall administrator of this system is
+  Dou Mu — the cosmic mother-deity of the seven stars
+  of the Big Dipper who governs all stellar fate.
+  Placing her above the annual Tai Sui encodes the
+  institutional hierarchy: individual annual fortune
+  (Tai Sui) is governed by the comprehensive cosmic
+  order (Dou Mu).
+
+  Previously in this corpus, Tai Sui appeared at
+  Loyang Tua Pek Kong beneath a Bodhisattva (Buddhist
+  soteriological authority surmounting Taoist temporal
+  administration). Here Tai Sui appears beneath Dou Mu
+  (Taoist cosmic authority surmounting Taoist annual
+  administration). Both configurations deploy the
+  SURMOUNTS relation to encode hierarchical authority
+  over the same deity class — through different
+  traditional registers.
+ENSEMBLE:
+ENSEMBLE →
+  [DOU_MU  surmounts  CURRENT_YEAR_TAI_SUI]
+    [scope: altar]
+  [元辰殿  manifests  TAOIST_ASTRAL_ADMINISTRATION]
+    [scope: shrine]
+  [当年太岁_BANNER  manifests  ANNUAL_FATE_GOVERNANCE]
+    [scope: shrine]
+  [CURRENT_YEAR_TAI_SUI  coordinates[depth, grouped, permanent]
+                          DOU_MU]
+    [scope: altar]
+Zone 2 — 聚宝堂 ritual space
+Image 4
+- Large red banner on white tiled wall
+- Large yellow characters on the banner
+  (three main characters, with smaller text below)
+- Flanking objects: vases with peacock feathers
+- Incense burner placed on the FLOOR (not elevated)
+- Fruit offerings at floor level (pineapple, bananas,
+  oranges)
+- Candle at floor level
+- No deity figure or statue present
+The floor-level placement. This is the most significant iconographic evidence. A 聚宝堂 wealth-gathering space would typically have some visual wealth symbolism and could be at any height. A 五方五土龙神 shrine is characteristically addressed at ground level — because these are the dragon spirits of the earth beneath, who govern the soil, and the ritual logic positions their incense burner directly on the ground surface they inhabit. The floor-level incense burner is a spatial coding that reads as 五方五土龙神, not 聚宝堂.
+The absence of a deity figure. 五方五土龙神 is frequently addressed through a text invocation on red paper or banner rather than a sculptural figure. The banner functions as the spirit seat. This is why there is no statue — the banner IS the presence. A 聚宝堂 would more typically have symbolic visual elements (a basin, coins, auspicious objects). This shrine has none of those.
+Image 3 (万山福德 / 龙神 altar):
+  A formal elevated altar housing the 龙神 (Dragon God)
+  as a named secondary deity — with a dedicated niche,
+  an altar table (正德福), and an altar canopy structure
+
+Image 4 (五方五土龙神 floor shrine):
+  A floor-level spirit invocation space for the
+  collective dragon spirits of the five directions and
+  five soils — addressed through a banner text
+  (no statue) with incense at ground level
+Zone 3 — main altar: 万山福德 / 龙神
+Image 3
+Inner banner: 萬山福德 (Wàn Shān Fú Dé) — the temple's
+              own identity, here used as a dedicatory
+              banner for this altar
+Dragon figure: prominent in the niche background
+              (likely a decorative/relief dragon rather
+               than a free-standing deity figure)
+龙神 label:   on the altar table — Dragon Spirit
+Couplets:
+  Left:  玉烛长明 (Yù Zhú Cháng Míng)
+         — "Jade Candles Eternally Bright"
+  Right: 金炉不断年火 (Jīn Lú Bù Duàn Nián Huǒ)
+         — "The Gold Incense Burner's Fire Does Not
+            Cease Year After Year"
+Altar table front: 正德福 (Zhèng Dé Fú) — a variant of
+                   Tu Di Gong's 福德正神 epithet, reversed
+The 龙神 (Dragon Spirit) in this altar is consistent with the temple's original Kallang Basin location. Sar Kong was the name of the community living around the temple, while Mun San Kong was the former name for the Kallang Basin. A waterway community temple would naturally venerate the Dragon Spirit of the water/land domain alongside the Earth God. mytemplebuddy
+The 萬山福德 banner above this altar uses the temple's own name as a dedication, marking this as the institutional identity altar — the space where the temple itself is acknowledged as a sacred entity — rather than a standard deity shrine.
+ENSEMBLE →
+  [龙神  centers  SECONDARY_ALTAR]
+    [scope: altar]
+  [萬山福德_BANNER  identifies  TEMPLE_INSTITUTIONAL_IDENTITY]
+    [scope: shrine]
+  [龙神  coordinates[lateral, incidental, permanent]
+         TU_DI_GONG]
+    [scope: compound]
+  -- Dragon Spirit is associated with the local water/land
+     domain that Tu Di Gong administers
+Zone 4 — Main hall: three-bay configuration
+Central bay: Tu Di Gong (土地公 / 福德正神)
+[Not directly photographed — documented through institutional identity and user description]
+PRINCIPAL DEITY: Tu Di Gong (土地公)
+  Canonical title: 福德正神 (Fú Dé Zhèng Shén)
+  Identity:        Earth God, local guardian deity,
+                   patron of land, agriculture, community,
+                   and commercial prosperity
+
+  The same statue that survived the 1996 fire at Loyang
+  Tua Pek Kong was that temple's founding proof. Here,
+  Tu Di Gong is the founding identity of the entire
+  temple — the institution is named after his epithet
+  (福德) and the full temple name is essentially
+  "Sar Kong's Tu Di Gong Shrine."
+
+  Tu Di Gong's birthday (2nd day of 2nd lunar month)
+  is the temple's principal annual festival and the
+  occasion for the fire dragon performance — the only
+  such performance in Singapore.
+
+ICON → ⟨ central, dominant, front-facing,
+         cosmological and administrative and protective ⟩
+
+ENSEMBLE →
+  [TU_DI_GONG  centers  MAIN_HALL]
+    [scope: compound]
+  [TU_DI_GONG  manifests  EARTH_DEITY_JURISDICTION]
+    [scope: compound]
+  [TU_DI_GONG  anchors  金花夫人_BAY, GUAN_YIN_BAY]
+    [scope: compound]
+Left bay: 金花夫人 group with 神光普照
+Image 6
+This is the iconographically richest and most analytically significant altar in the temple for the purposes of the RFIG corpus.
+Banner: 神光普照 (Shén Guāng Pǔ Zhào) — "Divine Light Universally Illuminating"
+The altar houses a highly complex multi-deity configuration across what appears to be three sub-sections within a single bay:
+CENTRE SECTION — 金花夫人 (Jīn Huā Fū Rén) group
+
+  ICON₁: 金花夫人 (principal)
+    → ⟨ central, dominant, front-facing, protective ⟩
+
+    Identity: Lady of the Golden Flower
+      — Specifically Cantonese fertility goddess
+        governing pregnancy, childbirth, and early
+        childhood development
+      — Her alternative name 金花娘娘 (Jīn Huā Niáng Niang)
+        reflects her status as a divine mother-lady
+      — Venerated by women seeking successful pregnancy
+        and healthy children
+
+    Iconographic corpus note: 金花夫人 is documented nowhere
+    else in this corpus and appears in no other Singapore
+    temple tradition analyzed here. She is specifically
+    a Cantonese deity without significant Hokkien, Teochew,
+    or general Buddhist parallels.
+
+  ICON₂-₁₃: 十二奶嫲 (Shí'èr Nǎi Mā)
+    → ⟨ lateral and tiered, subordinate, inward-facing,
+         intercessory ⟩
+    Twelve Nursemaid Grannies — flanking 金花夫人
+    in a bilateral formation, each representing one
+    aspect of her blessing for pregnancy/birth stages
+
+  ICON₁₄-₂₅: 十二奶姑 (Shí'èr Nǎi Gū)
+    → ⟨ lateral and tiered, subordinate, inward-facing,
+         intercessory ⟩
+    Twelve Maiden Nursemaids — the younger attendant
+    counterpart to the Twelve Grannies
+
+  老夫人 (Lǎo Fū Rén) label also present
+    — Elder Lady: the senior matriarchal figure in
+      the genealogy of 金花夫人's attendant assembly
+The 十二奶嫲 / 十二奶姑 configuration is iconographically remarkable. In RFIG terms, this is a bilateral multitude configuration — not the simple unordered multitude documented at the Hall of Medicine Buddha (Ten Thousand Buddhas) or the Hall of Amrita Precepts, but an ordered bilateral assembly where each attendant represents a specific stage:
+ENSEMBLE → (centre section)
+  [(十二奶嫲 LEFT FORMATION) – flanks → (金花夫人)
+   ← flanks – (十二奶嫲 RIGHT FORMATION)]
+    [scope: altar]
+  [(十二奶姑 LEFT) – flanks → (金花夫人)
+   ← flanks – (十二奶姑 RIGHT)]
+    [scope: altar]
+  [老夫人  surmounts  十二奶嫲_FORMATION]
+    [scope: altar]
+  [金花夫人  centers  FULL_ASSEMBLY]
+    [scope: altar]
+LEFT SUB-SECTION — Wen Chang and associated deities
+
+  Visible name labels:
+  文昌光 (Wén Chāng Guāng) — Wen Chang (God of Literature)
+  帝/大帝 (Dì / Dà Dì)  — Emperor-level deity
+  悟空 (Wù Kōng)          — Sun Wukong (Monkey God,
+                              Qitian Dasheng)
+  先師 (Xiān Shī)          — Founding Teacher/Patriarch
+
+  Function: pedagogical and protective
+  Register: Taoist, folk-popular (Sun Wukong)
+RIGHT SUB-SECTION — Hua Guang and medical deities
+
+  Visible name labels:
+  华光 (Huá Guāng) — Hua Guang Da Di (God of Fire, patron
+                      of performers and entertainers)
+  太保 (Tài Bǎo)   — Great Guardian
+  华陀 (Huá Tuó)   — Hua Tuo (physician deity)
+
+  Function: protective, medical, performative
+Hua Tuo — a fourth appearance in the corpus:
+Hua Tuo now appears at four temples in this corpus:
+Da Feng Gu Si:        Left altar of principal triad
+                      (medical charity dimension)
+Kwan Im Thong Hood Cho: Secondary deity presence
+                      (health and medicine)
+Loyang Tua Pek Kong:  Mentioned in article; not photographed
+Mun San Fook Tuck Chee: Right sub-section of left bay
+
+Pattern: Hua Tuo appears consistently as a subsidiary
+deity across different institutional traditions and
+dialect-group affiliations. He is the most frequently
+documented subsidiary deity in this corpus,
+suggesting his particular importance in Singapore
+Chinese folk-religious healthcare practice.
+Da Feng Gu Si:        Left altar of principal triad
+                      (medical charity dimension)
+Kwan Im Thong Hood Cho: Secondary deity presence
+                      (health and medicine)
+Loyang Tua Pek Kong:  Mentioned in article; not photographed
+Mun San Fook Tuck Chee: Right sub-section of left bay
+
+Pattern: Hua Tuo appears consistently as a subsidiary
+deity across different institutional traditions and
+dialect-group affiliations. He is the most frequently
+documented subsidiary deity in this corpus,
+suggesting his particular importance in Singapore
+Chinese folk-religious healthcare practice.
+Right bay: Guan Yin (觀音)
+Image 7
+Couplets: 南無觀世音 (Nán Mó Guān Shì Yīn) — both sides
+          — "Homage to Guanyin, Perceiver of the World's Sounds"
+          — Bilaterally identical inscriptions frame the
+            entire altar space
+ICON₁ — Standing Thousand-Armed Avalokiteśvara
+ICON₁ → ⟨ central, dominant, front-facing,
+           devotional and intercessory and soteriological ⟩
+
+Features:
+  - Standing Thousand-Armed Guanyin — multi-armed form
+  - White robes with gold accents
+  - Multiple arms fanned in multiple directions
+  - Circular motif (moon?) in relief background
+  - Phoenix/peacock decorative element in background
+  - Standing on a lotus base
+
+ICON₂ — Left attendant:
+  → ⟨ paired-lateral, subordinate, front-facing,
+       intercessory ⟩
+
+ICON₃ — Right attendant:
+  → ⟨ paired-lateral, subordinate, front-facing,
+       intercessory ⟩
+The standing Thousand-Armed Guanyin is the third such figure documented in this corpus, after Kwan Im Thong Hood Cho and Nanhai Guanyin Temple. At each temple she adopts the same standing form (active compassionate response, poised to move toward suffering beings) but within different institutional frameworks:
+STANDING THOUSAND-ARMED GUANYIN — cross-corpus comparison:
+
+NANHAI GUANYIN TEMPLE:
+  Principal deity of a dedicated Guanyin temple
+  Solar mandorla (unique to that site)
+  Small community temple scale
+
+KWAN IM THONG HOOD CHO:
+  Principal deity of one of Singapore's largest
+  urban Chinese temples
+  Founding community context
+
+MUN SAN FOOK TUCK CHEE:
+  Right bay deity in a Cantonese Tu Di Gong temple
+  Flanked by 南无观世音 bilateral couplets
+  Paired peacock-feather vases flanking the altar
+
+PATTERN:
+  In all three appearances, the standing Thousand-Armed
+  Guanyin is the largest and most elaborate figure in
+  her respective altar zone. Scale-dominance holds
+  across all contexts regardless of whether she is the
+  temple's principal deity (Nanhai, Kwan Im Thong) or
+  a secondary bay deity (Mun San Fook Tuck Chee).
+ENSEMBLE:
+ENSEMBLE →
+  [(ICON₂ Left Attendant) – flanks → (STANDING GUANYIN)
+   ← flanks – (ICON₃ Right Attendant)]
+    [scope: altar]
+  [ICON₂  mirrors  ICON₃]
+    [scope: altar]
+  [南无观世音_COUPLET_LEFT  mirrors  南无观世音_COUPLET_RIGHT]
+    [scope: altar]
+  -- identical bilateral inscriptions frame the altar
+     in a textual mirroring pattern
+  [GUANYIN  centers  RIGHT_BAY]
+    [scope: shrine]
+  [STANDING_FORM  manifests  ACTIVE_COMPASSIONATE_RESPONSE]
+    [scope: altar]
+Compound-level ENSEMBLE
+MUN SAN FOOK TUCK CHEE — COMPOUND ENSEMBLE →
+
+  -- Principal deity
+  [TU_DI_GONG  centers  COMPOUND]
+    [scope: compound]
+  [TU_DI_GONG  manifests  EARTH_GOD_JURISDICTION]
+    [scope: compound]
+
+  -- Three-bay main hall structure
+  [金花夫人_BAY  mirrors  GUAN_YIN_BAY]
+    [scope: compound]
+  -- bilateral bays flanking Tu Di Gong center
+
+  [金花夫人_BAY  manifests  CANTONESE_COMMUNITY_IDENTITY]
+    [scope: compound]
+  [GUAN_YIN_BAY  manifests  BROADER_CHINESE_BUDDHIST_DEVOTION]
+    [scope: compound]
+  -- left bay encodes dialect-group identity (Cantonese);
+     right bay encodes trans-tradition Buddhist devotion
+
+  -- Peripheral entrance altars
+  [阴财神  coordinates[lateral, incidental, permanent]
+           当年太岁]
+    [scope: compound]
+  [ENTRANCE_ALTARS  coordinates[depth, grouped, permanent]
+                    MAIN_HALL]
+    [scope: compound]
+
+  -- Ritual spaces
+  [聚宝堂  coordinates[lateral, grounded, permanent]
+            TU_DI_GONG_ALTAR]
+    [scope: compound]
+  [聚宝堂  manifests  TERRESTRIAL_WEALTH_ACCUMULATION]
+    [scope: compound]
+
+  -- Dragon Spirit secondary altar
+  [龙神  coordinates[lateral, incidental, permanent]
+         TU_DI_GONG]
+    [scope: compound]
+  -- consistent with Kallang Basin water/land location
+The three-bay programme of Mun San Fook Tuck Chee encodes a specific Cantonese institutional theology:
+LEFT BAY (金花夫人 + 十二奶嫲 + 奶姑 + associated)
+  LIFE-BEGINNING dimension:
+  Fertility, childbirth, infant welfare.
+  The deities who govern the entry of new life into
+  the world and its first years of development.
+  Specifically Cantonese — marks community identity.
+
+CENTRE BAY (Tu Di Gong)
+  LIFE-SUSTAINING dimension:
+  Earth, land, community, prosperity, protection
+  in the living world.
+  The deity who governs daily life, agriculture,
+  commerce, and community affairs.
+  Universal to all Chinese folk-religious traditions.
+
+RIGHT BAY (Guan Yin)
+  LIFE-TRANSCENDING dimension:
+  Compassion, mercy, liberation from suffering.
+  The bodhisattva who transcends the cycle of
+  daily life toward spiritual liberation.
+  Universal Buddhist — trans-traditional.
+
+TOGETHER:
+  Birth (left) → Life (center) → Liberation (right)
+
+A life-course theology encoded in a three-bay
+spatial programme: the temple addresses the full
+arc of human existence from birth through daily
+sustenance to transcendence.
+This is the corpus's most explicitly life-course iconographic programme — where the three bays address three stages of human existence rather than three parallel functional domains.
