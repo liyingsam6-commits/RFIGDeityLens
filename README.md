@@ -3,7 +3,7 @@
 Research infrastructure and documentation framework for the study of Chinese Buddhist, Taoist, and folk religious altar iconography.
 
 ## DOI
-https://doi.org/10.5281/zenodo.20278673
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20278673.svg)](https://doi.org/10.5281/zenodo.20278673)
 
 ## Main Themes
 - altar iconography
