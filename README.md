@@ -1,6 +1,9 @@
-# Cosmological Grammar of the Altar
+# RFIGDeityLens
 
-Research notes and source materials related to Singapore Daoist-folk and Chinese Buddhist altar configurations.
+Research infrastructure and documentation framework for the study of Chinese Buddhist, Taoist, and folk religious altar iconography.
+
+## DOI
+https://doi.org/10.5281/zenodo.20278673
 
 ## Main Themes
 - altar iconography
