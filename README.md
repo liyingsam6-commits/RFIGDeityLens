@@ -13,7 +13,7 @@ https://doi.org/10.5281/zenodo.20278673
 
 ## Related Links
 
-- My Temple Buddy (public platform): https://mytemplebuddy.com/
+- DeityLens RFIG blog (public platform): [https://mytemplebuddy.com/](https://mytemplebuddy.hcommons.org/)
 - Zenodo Archive: https://doi.org/10.5281/zenodo.20278673
 
 ## Main Themes
